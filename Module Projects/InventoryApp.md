@@ -21,7 +21,7 @@ I built out the models that were need for the project. Using Express, Sequelize,
 
 As show in the above photo, each item will have one of the following attributes: title, which is the name of the item, the price of the item, an item description, an item category, and lastly an item image. Each attribute has its own data type based on what we want the user to see. For example, for the price attribute you can see that the data type is listed as <code>NUMBER</code>, which will show the price as a number versus as a string. Once the model was created, we moved on to creating the routes so that the user could interact with our application.
 
-<p  style="border: 8px solid white; border-radius: 5px;">
+<p align="center" >
 <img  width=600 src="Project Visuals/fun-code1.png" alt="animated"/>
 </p>
 <p align="center"> 
