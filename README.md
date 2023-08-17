@@ -47,3 +47,5 @@ for each individual project, make sure to add information in the readme on how y
 make sure to talk about the competencies that are specified but the DOL 
 
 # kl-portfolio
+
+Add some acknowledgements here, we can always restructure this as well 
