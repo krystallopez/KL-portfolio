@@ -13,7 +13,7 @@ This project provided a lesson for not only my group, but for myself, as to what
 
 In order to build out this application, we first had to build our backend. My team consisted of myself, and my fellow apprentices: Serkadis Dubale, Lauren Richardson, and Dar-Ci Calhoun. Together, we created a kanban board so that all tasks related to the project could be delegated accordingly. 
 
-I, built out the models that were need for the project. Using Express, Sequelize, and SQLite. In using these technologies I was able to define our models, their attributes, as well as their data types. You can see an example of this below: 
+I built out the models that were need for the project. Using Express, Sequelize, and SQLite. In using these technologies I was able to define our models, their attributes, as well as their data types. You can see an example of this below: 
 
 <p align="center" >
 <img  width=400 src="Project Visuals/fun-code2.png" alt="animated"/>
