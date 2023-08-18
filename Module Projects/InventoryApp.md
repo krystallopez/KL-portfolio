@@ -13,7 +13,7 @@ The Inventory App is a fullstack web application created for Bootcamp Part 2, We
 - The design for this project was mainly focused on user readability and the backend codebase. We wanted to make sure that all of information that was needed was being fetched properly from the backend. My team and I held sessions in which we delegated each task necessary to complete the project.
 
 <p align="center" >
-<img  width=600 src="Project Visuals/funkanban.png" alt="animated"/>
+<img  width=600 src="Project Visuals/screenshots/funkanban.png" alt="animated"/>
 </p>
 
 ## :computer: Action 
@@ -31,7 +31,7 @@ The Inventory App is a fullstack web application created for Bootcamp Part 2, We
 </li>
 
 <p align="center" >
-<img  width=600 src="Project Visuals/fun-code2.png" alt="animated"/>
+<img  width=600 src="Project Visuals/screenshots/fun-code2.png" alt="animated"/>
 </p>
    
 <p align="center"><i>Here is a snippet of the Items model that I created for this application. As you can see, each attribute has a defined data type</i></p>
@@ -42,9 +42,9 @@ The Inventory App is a fullstack web application created for Bootcamp Part 2, We
 - [Team F.U.N Kanban Board](https://github.com/orgs/F-U-N-mv/projects/1)
 - [Cisco SWE Multiverse: Team F.U.N Inventory App Presentation](https://youtu.be/q2yERO9hfsk)
 
-<summary align="center" >
-<video src="https://youtu.be/q2yERO9hfsk" controls="controls" muted="muted" class="d-block rounded-bottom-2 border-top width-fit" style="max-height:500px; min-height:400px;"></video>
-</summary>
+
+<video src="Project Visuals/Cisco SWE-Multiverse_ Team F.U.N Inventory App Presentation.mp4"  controls="controls" muted="muted" style="max-height:500px; min-height:400px;">
+</video>
 
 
 ## :floppy_disk: Technologies
