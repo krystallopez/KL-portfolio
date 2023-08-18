@@ -1,4 +1,4 @@
-# Project 1 - The Circle Chat
+# Project 1 - The Inventory App 
 
 A high-level overview of the project purpose:
 
@@ -34,7 +34,7 @@ The Inventory App is a fullstack web application created for Bootcamp Part 2, We
 <img  width=600 src="Project Visuals/fun-code2.png" alt="animated"/>
 </p>
    
-<p align="center" style="color:cyan"><i>Here is a snippet of the Items model that I created for this application. As you can see, each attribute has a defined data type</i></p>
+<p align="center"><i>Here is a snippet of the Items model that I created for this application. As you can see, each attribute has a defined data type</i></p>
 
 ## Result (Video Presenation + Project Repo)
 
