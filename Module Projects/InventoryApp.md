@@ -42,7 +42,7 @@ The Inventory App is a fullstack web application created for Bootcamp Part 2, We
 - [Team F.U.N Kanban Board](https://github.com/orgs/F-U-N-mv/projects/1)
 - [Cisco SWE Multiverse: Team F.U.N Inventory App Presentation](https://youtu.be/q2yERO9hfsk)
 
-<p align="center"><i>Click the thumbnail below to be redirected to the</i></p>
+<p align="center"><i>Click the thumbnail below to be redirected to the video!</i></p>
 
 [![Watch the video](https://i.imgur.com/Ska6lJz.gif)](https://www.youtube.com/watch?v=q2yERO9hfsk)
 
