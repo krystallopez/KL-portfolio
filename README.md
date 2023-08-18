@@ -4,7 +4,7 @@ This repository is a collection of some of my key learnings during 15-month appr
 
 Enjoy!
 
-Overview of Apprenticeship
+## Overview 
 
 - Host Company: Cisco Systems Inc.
 - Duration: Sep 2022 - Dec 2023
