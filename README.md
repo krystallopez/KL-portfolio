@@ -15,6 +15,14 @@ During my time at Cisco Systems, I delivered value through not improvements but 
 
 Due to the sensitive nature and restrictions of the codebases that I helped to maintain, as well security restrictions that are set in place throughout the company, I will avoid using any code snippets and provide brief explanations. 
 
+Here are the links to each section of my portfolio:
+
+- [Personal Projects](https://github.com/krystallopez/kl-portfolio/tree/main/Personal%20Projects)
+
+- [Module Projects](https://github.com/krystallopez/kl-portfolio/tree/main/Module%20Projects)
+
+- []()
+
 Portfolio Introduction:
 
 - Who you are
