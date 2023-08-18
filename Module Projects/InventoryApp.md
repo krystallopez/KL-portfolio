@@ -7,12 +7,13 @@ An enchanced breakdown of the project purpose:
 The Inventory App is a fullstack web application created for Bootcamp Part 2, Week 8 of the Multiverse curriculum. The main concept of the Inventory App is a mock e-commerce app in which the e-commerce company can track the inventory of the items that are listed on the website.
 
 ## :pushpin: Task 
-<li>
-There are a lot of core parts to this project, specifically the <code>public</code> and <code>server</code> files. The <code>public</code> folder houses all of the code for the frontend UI. The <code>server</code> folder houses all of the code for the backend.
-</li>
-<li>
-The design for this project was mainly focused on user readability and the backend codebase. We wanted to make sure that all of information that was needed was being fetched properly from the backend. My team and I held sessions in which we delegated each task necessary to complete the project.
-</li>
+
+- There are a lot of core parts to this project, specifically the <code>public</code> and <code>server</code> files. The <code>public</code> folder houses all of the code for the frontend UI. The <code>server</code> folder houses all of the code for the backend.
+
+
+- The design for this project was mainly focused on user readability and the backend codebase. We wanted to make sure that all of information that was needed was being fetched properly from the backend. My team and I held sessions in which we delegated each task necessary to complete the project.
+
+<br>
 
 <p align="center" >
 <img  width=600 src="Project Visuals/screenshots/funkanban.png" alt="animated"/>
@@ -31,6 +32,8 @@ The design for this project was mainly focused on user readability and the backe
    </li>
 </ul>
 </li>
+
+<br>
 
 <p align="center" >
 <img  width=600 src="Project Visuals/screenshots/fun-code2.png" alt="animated"/>
@@ -52,23 +55,23 @@ The design for this project was mainly focused on user readability and the backe
 
 Front End 
 <ul>
-  <li> React </li>
+  <li> React <code>(v18.2.0)</code> </li>
   <li> CSS </li>
-  <li> HTML </li>
-  <li> Babel</li>
-  <li> Parcel </li>
+  <li> HTML5 </li>
+  <li> Babel <code>(v7.15.0)</code></li>
+  <li> Parcel <code>(v18.2.0)</code> </li>
   
   
 </ul> 
 
 Backend
 <ul>
-<li>Node</li>
-<li>Express</li>
-<li>Sequelize</li>
-<li>SQLite</li>
-<li>Jest</li>  
-<li>Nodemon</li>
+<li>Node <code>(v19.6.0)</code></li>
+<li>Express <code>(v4.17.1)</code></li>
+<li>Sequelize <code>(v6.23.2)</code></li>
+<li>SQLite3 <code>(5.1.1)</code></li>
+<li>Jest <code>(v27.1.0)</code></li>  
+<li>Nodemon <code>(v2.0.19)</code></li>
 </ul>
 
 ## :book: Competencies
