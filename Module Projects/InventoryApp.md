@@ -2,11 +2,11 @@
 
 A high-level overview of the project purpose:
 
-## Situation
+## :memo: Situation
 
 The Inventory App is a fullstack web application created for Bootcamp Part 2, Week 8 of the Multiverse curriculum. The main concept of the Inventory App is a mock e-commerce app in which the e-commerce company can track the inventory of the items that are listed on the website.
 
-## :memo: Task 
+## :pushpin: Task 
 
 - There are a lot of core parts to this project, specifically the <code>public</code> and <code>server</code> files. The <code>public</code> folder houses all of the code for the frontend UI. The <code>server</code> folder houses all of the code for the backend.
 
@@ -52,6 +52,6 @@ The Inventory App is a fullstack web application created for Bootcamp Part 2, We
 - list front end tech
 - list dependencies
 
-## Competencies
+## :book: Competencies
 
 -
