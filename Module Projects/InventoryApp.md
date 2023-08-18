@@ -6,7 +6,7 @@ A high-level overview of the project purpose:
 
 The Inventory App is a fullstack web application created for Bootcamp Part 2, Week 8 of the Multiverse curriculum. The main concept of the Inventory App is a mock e-commerce app in which the e-commerce company can track the inventory of the items that are listed on the website.
 
-## Task
+## :memo: Task 
 
 - There are a lot of core parts to this project, specifically the <code>public</code> and <code>server</code> files. The <code>public</code> folder houses all of the code for the frontend UI. The <code>server</code> folder houses all of the code for the backend.
 
@@ -16,7 +16,7 @@ The Inventory App is a fullstack web application created for Bootcamp Part 2, We
 <img  width=600 src="Project Visuals/funkanban.png" alt="animated"/>
 </p>
 
-## Action
+## :computer: Action 
 <li>My main contributions revolved around the backend development and TDD.</li>
 
 <li>  Backend Development
@@ -36,7 +36,7 @@ The Inventory App is a fullstack web application created for Bootcamp Part 2, We
    
 <p align="center"><i>Here is a snippet of the Items model that I created for this application. As you can see, each attribute has a defined data type</i></p>
 
-## Result (Video Presenation + Project Repo)
+## :movie_camera: Result (Video Presenation + Project Repo) 
 
 - [Team F.U.N. Repo](https://github.com/F-U-N-mv/inventory-app)
 - [Team F.U.N Kanban Board](https://github.com/orgs/F-U-N-mv/projects/1)
@@ -46,7 +46,7 @@ The Inventory App is a fullstack web application created for Bootcamp Part 2, We
 
 
 
-## Technologies
+## :floppy_disk: Technologies
 
 - list backend tech
 - list front end tech
