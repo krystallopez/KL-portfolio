@@ -6,10 +6,8 @@ Enjoy!
 
 Overview of Apprenticeship
 
-- Host Company:
-- Duration:
-- Link to Portfolio Website:
-
+- Host Company: Cisco Systems Inc.
+- Duration: Sep 2022 - Dec 2023
 
 During my time at Cisco Systems, I delivered value through not improvements but added functionality to my team's existing codebases. In this time I assisted in implementing a new component to the existing codebase, as well as, working on various epics and big fixes. This README is a brief overview of my contributions to my team and Cisco's services without revealing any proprietary information. 
 
@@ -21,7 +19,7 @@ Here are the links to each section of my portfolio:
 
 - [Module Projects](https://github.com/krystallopez/kl-portfolio/tree/main/Module%20Projects)
 
-- []()
+- [Cisco]()
 
 Portfolio Introduction:
 
