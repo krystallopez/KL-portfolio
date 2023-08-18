@@ -7,17 +7,19 @@ An enchanced breakdown of the project purpose:
 The Inventory App is a fullstack web application created for Bootcamp Part 2, Week 8 of the Multiverse curriculum. The main concept of the Inventory App is a mock e-commerce app in which the e-commerce company can track the inventory of the items that are listed on the website.
 
 ## :pushpin: Task 
-
-- There are a lot of core parts to this project, specifically the <code>public</code> and <code>server</code> files. The <code>public</code> folder houses all of the code for the frontend UI. The <code>server</code> folder houses all of the code for the backend.
-
-- The design for this project was mainly focused on user readability and the backend codebase. We wanted to make sure that all of information that was needed was being fetched properly from the backend. My team and I held sessions in which we delegated each task necessary to complete the project.
+<li>
+There are a lot of core parts to this project, specifically the <code>public</code> and <code>server</code> files. The <code>public</code> folder houses all of the code for the frontend UI. The <code>server</code> folder houses all of the code for the backend.
+</li>
+<li>
+The design for this project was mainly focused on user readability and the backend codebase. We wanted to make sure that all of information that was needed was being fetched properly from the backend. My team and I held sessions in which we delegated each task necessary to complete the project.
+</li>
 
 <p align="center" >
 <img  width=600 src="Project Visuals/screenshots/funkanban.png" alt="animated"/>
 </p>
 
 ## :computer: Action 
-<li>My main contributions revolved around the backend development and TDD.</li>
+<li style="list-style-type: circle">My main contributions revolved around the backend development and TDD.</li>
 
 <li>  Backend Development
 <ul style="list-style-type: square">
@@ -49,7 +51,7 @@ The Inventory App is a fullstack web application created for Bootcamp Part 2, We
 ## :floppy_disk: Technologies
 
 Front End 
-<ul style="list-style-type: square">
+<ul>
   <li> React </li>
   <li> CSS </li>
   <li> HTML </li>
@@ -60,7 +62,7 @@ Front End
 </ul> 
 
 Backend
-<ul style="list-style-type: square">
+<ul>
 <li>Node</li>
 <li>Express</li>
 <li>Sequelize</li>
@@ -72,3 +74,18 @@ Backend
 ## :book: Competencies
 
 
+## Installation 
+<ul>
+<li><code>`npm install`</code></li>
+<li><code>`npm run seed`</code></li>
+<li><code>`npm run server-dev</code></li>
+<li>In a seperate terminal, <code>`npm run client-dev`</code></li>
+</ul>
+
+## Collaborators
+<ul>
+<li> Lauren Richardon: <a href="https://github.com/l-Rich">@l-Rich</a></li>
+<li> Dar-Ci Calhoun: <a href="https://github.com/dcalhoun286">@dcalhoun286</a></li>
+<li> Serkadis Dubale: <a href="https://github.com/serki12">@serki12</a></li>
+<li> Krystal Lopez: <a href="https://github.com/krystallopez">@krystallopez</a></li>
+</ul>
