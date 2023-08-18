@@ -6,7 +6,6 @@ Below you can find the links to each project reflection:
 
 - Jediverse (add link to repo)
 - Inventory App (add link to repo)
-- Circle Chat (add link to repo)
 - Spoonful Blog (add link to repo)
 
 Enjoy! 

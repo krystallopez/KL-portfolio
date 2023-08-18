@@ -1,6 +1,6 @@
 # Project 1 - The Inventory App 
 
-A high-level overview of the project purpose:
+An enchanced breakdown of the project purpose:
 
 ## :memo: Situation
 
@@ -48,10 +48,27 @@ The Inventory App is a fullstack web application created for Bootcamp Part 2, We
 
 ## :floppy_disk: Technologies
 
-- list backend tech
-- list front end tech
-- list dependencies
+Front End 
+<ul style="list-style-type: square">
+  <li> React </li>
+  <li> CSS </li>
+  <li> HTML </li>
+  <li> Babel</li>
+  <li> Parcel </li>
+  
+  
+</ul> 
+
+Backend
+<ul style="list-style-type: square">
+<li>Node</li>
+<li>Express</li>
+<li>Sequelize</li>
+<li>SQLite</li>
+<li>Jest</li>  
+<li>Nodemon</li>
+</ul>
 
 ## :book: Competencies
 
--
+
