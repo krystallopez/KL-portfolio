@@ -45,7 +45,10 @@ The Inventory App is a fullstack web application created for Bootcamp Part 2, We
 
 <!-- <video src="Project Visuals/Cisco SWE-Multiverse_ Team F.U.N Inventory App Presentation.mp4" controls="controls" muted="muted" class="d-block rounded-bottom-2 border-top width-fit" style="max-height:640px; min-height: 200px"></video> -->
 
-[![Watch the video](https://i.imgur.com/3FogDnT.png)](https://www.youtube.com/watch?v=q2yERO9hfsk)
+<p align="center"><i>Click the thumbnail below to be redirected to the</i></p>
+
+[![Watch the video](https://i.imgur.com/Ska6lJz.gif)](https://www.youtube.com/watch?v=q2yERO9hfsk)
+
 
 ## :floppy_disk: Technologies
 
