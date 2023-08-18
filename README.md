@@ -21,7 +21,7 @@ Here are the links to each section of my portfolio:
 
 - [Cisco]()
 
-Portfolio Introduction:
+<!-- Portfolio Introduction:
 
 - Who you are
 - Why you do what you do
@@ -54,4 +54,4 @@ make sure to talk about the competencies that are specified but the DOL
 
 # kl-portfolio
 
-Add some acknowledgements here, we can always restructure this as well 
+Add some acknowledgements here, we can always restructure this as well  -->
