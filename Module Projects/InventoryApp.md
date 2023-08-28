@@ -20,7 +20,7 @@ The Inventory App is a fullstack web application created for Bootcamp Part 2, We
 </p>
 
 ## :computer: Action 
-<li >My main contributions revolved around the backend development and TDD.</li>
+<li>My main contributions revolved around the backend development and TDD.</li>
 
 <li>  Backend Development
 <ul style="list-style-type: square">

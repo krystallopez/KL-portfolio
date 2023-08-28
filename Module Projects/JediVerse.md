@@ -12,7 +12,12 @@ The JediVerse is frontend web application that I created during the Multiverse F
 
 - The <code>App.js</code> file is the main page that serves as the entry point and root component of the application. This is where I defined the main structure and layout for my UI. 
 
-- I used Semantics UI for React to style all of the buttons and the navbar. 
+- I used Semantics UI for React to style all of the buttons and the navbar. I also created a wireframe help me visualize how I wanted the application to look. 
+
+<br>
+<p align="center" >
+<img  width=600 src="Project Visuals/screenshots/jediverse-wireframe.png" alt="animated"/>
+</p>
 
 ## :computer: Action 
 
