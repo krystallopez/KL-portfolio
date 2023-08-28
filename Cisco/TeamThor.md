@@ -1,6 +1,8 @@
 # Team THOR 
 
+Team THOR, is a Cisco engineering team that builds and maintains internal tooling in Cisco Umbrella, a cloud-security platform that provides an additional line of defense against malicious software and threats on the internet by using threat intelligence.  
 
+Team THOR works with other teams as well to help maintain CHIM and all of its dependencies.
 
 
 ## CHIM (Change & Incident Management)
@@ -28,7 +30,7 @@ My contributions to this project are as follows:
 
 - The means to create a manual deployment was placed into a modal on that UI so that the user can easily create a manual deployment. Using <code>Formik</code> and <code>Yup</code> I was able to set up the inital values for the form and determine what information would be required in order to successfully submit a manual deployment through the CHIM UI. 
 
-- I created all of the UI endpoints for the <code>DeploymentClient</code> class, as well the deployment query keys needed, which allow a user to look up specific deployments based on keywords entered in a search bar on the Deployment Dashboard page.
+- I collaborated with my mentors to create all of the UI endpoints for the <code>DeploymentClient</code> class, as well the deployment query keys needed, which allow a user to look up specific deployments based on keywords entered in a search bar on the Deployment Dashboard page.
 
 -  Established an export function so that all details of a deployment can be exported into a CSV file. 
 
@@ -39,6 +41,25 @@ My contributions to this project are as follows:
 - Once a key, is created, the user will receive a message that indicates that the key has been created successfully. I created logic on the UI that will show a list keys based on what type of key it is, allows the user to eidt the owners of the key. The keys are then displayed in a table that lists all of the keys that a user has created for each API. The type of access key is shown under a row called "Type".
 
 This project was very challenging to complete, being a novice at React, this project challenged me to learn more and adapt quickly. It gave an in-depth understanding of project planning and agile programming. I was able to contribute to the planning process and my team encouraged me to try things that I have never done before. Working on this project boosted my confidence with React. 
+
+## JIRA Ticket Completions and other team contributions
+
+Throughout the time that I have been on Team THOR and working on the CHIM project, I have compelted various JIRA tickets that range from bug fixes, to epics for new projects, and overall improvements that need to be made to CHIM. Here are some other contributions that I have made to the CHIM tool: 
+
+
+- Implementing bug fixes, such as updating validations to require specific information during the incident creating process
+
+- Created E2E testing for logout and contact pages in CHIM, E2E tests on contacts page test to make sure that the on-call user can be paged on the contacts page in CHIM. E2E tess for logout page make sure that the logout buttons work when clicked on. 
+
+- Assist internal customers in real time in the use of CHIM and all of its features, specifically US customers as our team in primarily based in the EU and India
+
+- Perform code reviews on incoming PRs and implemented styling fixes on various aspects of CHIM, such as updating the name of specific metrics to measure how long it took to restore service 
+
+- Implemented fixed to update validation for change notice workflow to apply a minimum character count to ensure all required information is being filled out 
+
+- Made updates to filtering in CHIM so that when a user is searching for a specific incident or change notice that data is returned filtered based on the parameters entered in by the user 
+
+- Fixed bug that caused incorrect time to display when an incident is resolved, fixed timing so that the time to notify a user of an outage starts after an incident is reported 
 
 ### Testimonials
 
