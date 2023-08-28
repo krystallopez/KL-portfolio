@@ -19,6 +19,7 @@ The JediVerse is frontend web application that I created during the Multiverse F
 <img  width=600 src="Project Visuals/screenshots/jediverse-wireframe.png" alt="animated"/>
 </p>
 
+
 ## :computer: Action 
 
 <li> I built the JediVerse by using React and linking the Star Wars API better known as SWAPI. I followed the documentation listed on the API website and following the examples on to reach each endpoint.</li>
