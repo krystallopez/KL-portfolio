@@ -31,7 +31,7 @@ The JediVerse is frontend web application that I created during the Multiverse F
 <img  width=600 src="Project Visuals/screenshots/jv-app.png" alt="animated"/>
 </p>
 
-<li> Each state variable manages the state for each individual component that I created. I also used pagination, as each endpoint, contains between 30-80 object. I wanted to use pagination to design a dynamic UI that allows the user to flip through each page of data. Upon initially fetching the data, the page is always set to 1. I also created the event handlers (<code>handleNextPage</code> & <code>handlePreviousPage</code>) needed to move through each page of data for each endpoint. The event handlers were passed as props, <code>next</code> and <code>previous</code>
+<li> Each state variable manages the state for each individual component that I created. I also used pagination, as each endpoint, contains between 30-80 objects. I wanted to use pagination to design a dynamic UI that allows the user to flip through each page of data. Upon initially fetching the data, the page is always set to 1. I also created the event handlers (<code>handleNextPage</code> & <code>handlePreviousPage</code>) needed to move through each page of data for each endpoint. The event handlers were passed as props, <code>next</code> and <code>previous</code>
 </li>
 
 <li> I followed the same data structure for each of the components, pulling only specific key-values that I wanted to be visible to the user. I used the map function to map through each object so that they could easily be displayed in an array. In order to display the information. For each component I created the variables <code>totalPages</code> and <code>isLastPage</code>. Each data component follows this structure, the Navbar and Home components were built slightly different.
@@ -42,7 +42,7 @@ The JediVerse is frontend web application that I created during the Multiverse F
 <img  width=600 src="Project Visuals/screenshots/jv-people.png" alt="animated"/>
 </p>
 
-<p align="center"><i> As shown in the photo above, on line 20, I styled each the data that was I mapping in a grid so that I could display the data in a way that was readable to the user. Each card has a header, a title, and a description, which includes the individual atrributes that is present for the People component.</i></p>
+<p align="center"><i> As shown in the photo above, on line 20, I styled each piece of data that was I mapping in a grid so that I could display the data in a way that was readable to the user. Each card has a header, a title, and a description, which includes the individual atrributes that are present for the People component.</i></p>
 
 
 
