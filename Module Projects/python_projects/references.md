@@ -1,7 +1,7 @@
 <h1 align="center">References</h1></b>
 
 <p align="center" >
-<img  width=300 src="ihavemysources.gif" alt="animated"/>
+<img  width=300 src="gif/ihavemysources.gif" alt="animated"/>
 </p>
 
 ### Password Generator - [Password Generator](https://medium.com/analytics-vidhya/create-a-random-password-generator-using-python-2fea485e9da9) , [AskPython](https://www.askpython.com/)

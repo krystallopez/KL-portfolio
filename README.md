@@ -6,10 +6,10 @@ Enjoy!
 
 ## Overview 
 
-- Host Company: Cisco Systems Inc.
-- Duration: Sep 2022 - Dec 2023
+- <b>Host Company: Cisco Systems Inc.</b>
+- <b>Duration: Sep 2022 - Dec 2023 </b>
 
-During my time at Cisco Systems, I delivered value through not improvements but added functionality to my team's existing codebases. In this time I assisted in implementing a new component to the existing codebase, as well as, working on various epics and big fixes. This README is a brief overview of my contributions to my team and Cisco's services without revealing any proprietary information. 
+During my time at Cisco Systems, I delivered value not only through improvements to my team's codebase but also added additional functionality as well. In this time I assisted in implementing a new component to the existing codebase, as well as, working on various user stories and big fixes. This README is a brief overview of my contributions to my team and Cisco's services without revealing any proprietary information. 
 
 Due to the sensitive nature and restrictions of the codebases that I helped to maintain, as well security restrictions that are set in place throughout the company, I will avoid using any code snippets and provide brief explanations. 
 
@@ -19,7 +19,7 @@ Here are the links to each section of my portfolio:
 
 - [Module Projects](https://github.com/krystallopez/kl-portfolio/tree/main/Module%20Projects)
 
-- [Cisco]()
+- [Cisco](https://github.com/krystallopez/kl-portfolio/tree/main/Cisco)
 
 <!-- Portfolio Introduction:
 

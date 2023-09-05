@@ -61,6 +61,11 @@ Throughout the time that I have been on Team THOR and working on the CHIM projec
 
 - Fixed bug that caused incorrect time to display when an incident is resolved, fixed timing so that the time to notify a user of an outage starts after an incident is reported 
 
+
+## Competencies
+
+
+
 ### Testimonials
 
 During my on-the-job training, I had the opportunity to work and collaborate with a very talented group of engineers and IT professionals. Below are some reflections from my teammates about our time working together. 
