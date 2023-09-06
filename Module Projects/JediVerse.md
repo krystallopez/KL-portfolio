@@ -141,6 +141,8 @@ The JediVerse is frontend web application that I created during the Multiverse F
 - [JediVerse Repository](https://github.com/jedi-verse-MV/jediverse-MV/tree/main)
 - [JediVerse Project Board](https://github.com/orgs/jedi-verse-MV/projects/1)
 
+<p align="center"><i>Click the thumbnail below to be redirected to the video!</i></p>
+
 [![Watch the video](https://i.imgur.com/cHE8DU8.jpg)](https://www.youtube.com/watch?v=xO90thlEhC8)
 
 
