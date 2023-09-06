@@ -31,20 +31,26 @@ The JediVerse is frontend web application that I created during the Multiverse F
 <img  width=600 src="Project Visuals/jediverse_app/jv-app.png" alt="animated"/>
 </p>
 
-<li> Each state variable manages the state for each individual component that I created. I also used pagination, as each endpoint, contains between 30-80 objects. I wanted to use pagination to design a dynamic UI that allows the user to flip through each page of data. Upon initially fetching the data, the page is always set to 1. I also created the event handlers (<code>handleNextPage</code> & <code>handlePreviousPage</code>) needed to move through each page of data for each endpoint. The event handlers were passed as props, <code>next</code> and <code>previous</code>.
+<li> Each state variable manages the state for each individual component that I created. I also used pagination, as each endpoint, contains between 30-80 objects. I wanted to use pagination to design a dynamic UI that allows the user to flip through each page of data. Upon initially fetching the data, the page is always set to 1. I also created the event handlers (<code>handleNextPage</code> & <code>handlePreviousPage</code>) needed to move through each page of data for each endpoint. The event handlers were then passed as props to all of the compenents. <code>next</code> and <code>previous</code>.
 </li>
 
-***add screenshots of pagination here***
+<br>
+<p align="center" >
+<img  width=600 src="Project Visuals/jediverse_app/jv-pagination.png" alt="animated"/>
+</p>
+<p align="center"><i>This is pagination. You can see that as you hit "Next" the page number increases by 1 taking you to the next page of data, then when you hit "Previous" the page number is reduced by 1, thus taking you to the previous page. In the useEffect function the <code>page</code> prop is passed so that the page can be fetched and rerendered.</i></p>
+<br>
 
-
-<li> I followed the same data structure for each of the components, pulling only specific key-values that I wanted to be visible to the user. I used the map function to map through each object so that they could easily be displayed in an array. In order to display the information. For each component I created the variables <code>totalPages</code> and <code>isLastPage</code>. Each data component follows this structure, the Navbar and Home components were built slightly different.
-</li>
+<li> I followed the same data structure for each of the components, pulling only specific key-values that I wanted to be visible to the user. I used the map function to map through each object so that they could easily be displayed in an array.</li>
 <br>
 <p align="center" >
 <img  width=600 src="Project Visuals/jediverse_app/jv-people.png" alt="animated"/>
 </p>
 
 <p align="center"><i> As shown in the photo above, for the People component, on line 20, I styled each piece of data that was I mapping in a grid so that I could display the data in a way that was readable to the user. Each card has a header, a title, and a description, which includes the individual atrributes that are present for the People component.</i></p>
+
+<li>In order to display the information that is shown on each page, for each component I created the variables <code>totalPages</code> and <code>isLastPage</code>. Each data component follows this structure, the Navbar and Home components were built slightly different.</li>
+<br>
 
 <li>I created the Navbar using the Menu and Container components from Semantic React to set the navbar in a container and to give eacg endpoint link a name in the navbar as. I used the Link component from the react router dom to add the endpoints for each component.</li>
 <br>
@@ -61,6 +67,7 @@ The JediVerse is frontend web application that I created during the Multiverse F
 <br>
 
 <li> For the look and feel of the UI, I used Semantics UI and Semantics CSS, to style the buttons as well give the color scheme to the Navbar. I used CSS to add a background image and also used a cursor website that allowed me to set the cursor as R2-D2.</li> 
+
 
 <li>Last but not least, I made my homepage very interactive. On the homepage I added each movie poster for each Star Wars movie. In order to have each poster show up on after the other, I created and array called <code>posters</code>, that held 9 different objects with the key-value pairs of <code>image</code> and <code>video</code>. </li>
 
