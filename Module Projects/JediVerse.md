@@ -22,7 +22,7 @@ The JediVerse is frontend web application that I created during the Multiverse F
 
 ## :computer: Action 
 
-<li> I built the JediVerse by using React and linking the Star Wars API better known as SWAPI. I followed the documentation listed on the API website and following the examples on to reach each endpoint. </li>
+<li> I built the JediVerse by using React and linking the Star Wars API better known as SWAPI to my React application. I followed the documentation listed on the API website and followed the examples on to reach each endpoint. Once I linked the API to my React project, I was then able to build the components needed to bring the application to life.</li>
 <br>
 <p align="center" >
 <img  width=600 src="Project Visuals/jediverse_app/swapi-data.png" alt="animated"/>
@@ -30,7 +30,11 @@ The JediVerse is frontend web application that I created during the Multiverse F
 <p align="center"><i>This is how the data looks when grabbed from the API directly, further down you will be able to see how I pulled specific key-values for each component.</i></p>
 <br>
 
-<li>Using a navbar component, I created the Navbar using the Menu and Container components from Semantic React to set the navbar in a container and to give each endpoint link a name in the navbar as. I used the Link component from the react router dom to add the endpoints for each component.</li>
+<li>Using a navbar component, I created a navbar using the Menu and Container components from Semantic React to set the navbar in a container and to give each endpoint link a name in the navbar as well. I used the Link component from the react router dom to add the endpoints for each component. On the UI, when the user clicks on each tab it will take them to the linked endpoint. </li>
+<br>
+<p align="center" >
+<img  width=600 src="Project Visuals/jediverse_app/jv-navbar-ui.png" alt="animated"/>
+</p>
 <br>
 <p align="center" >
 <img  width=600 src="Project Visuals/jediverse_app/jv-navbar-code.png" alt="animated"/>
@@ -38,14 +42,37 @@ The JediVerse is frontend web application that I created during the Multiverse F
 
 <br>
 
-<li>In the <code>App.js</code>, I established all of the state variables needed to fetch all of the information needed from the Star Wars API. I created multiple fetch calls in order to fetch all of the information that I needed from the different endpoints in the API. Each component has a different endpoint in which data is being fetched. The data from each endpoint was passed as a prop to each component, under the name of <code>data</code>. Each instance of <code>data</code> held the value of the different state variables that created for each component.</li>
+<li>In the <code>App.js</code> file, I established all of the state variables needed to fetch data from each of the endpoints. I created fetch calls for each endpoint. Each component is linked to the endpoint of the same name, so for example, the people endpoint is linked to the <code>People</code> component. The data from each endpoint is then passed as a prop to each component, under the name of <code>data</code>. Each instance of <code>data</code> holds the value of the different state variables that  werecreated for each component.</li>
+<br>
+<p align="center" >
+<img  width=600 src="Project Visuals/jediverse_app/jv-fetch-planets.png" alt="animated"/>
+</p>
+<br>
+<p align="center"><i>In the function <code>fetchPlanets</code>, the variable <code>data</code> is set to be the response received when making the call to the API. Once the response is received, the state <code>setPlanets</code> changes to the value of <code>data.results</code>. The state is then updated and the results are feteched and rendered on the page.</i></p>
 
+<p align="center" >
+<img  width=600 src="Project Visuals/jediverse_app/jv-planets-rendered.png" alt="animated"/>
+</p>
+<p align="center"><i>Once the state has been updated and the results have been fetched, the data is rendered on the page, as shown in the photo above.</i></p>
+
+<li> Each state variable manages the state for each individual component. For example the state variables <code>[people, setPeople]</code>, this is used to store and managed for the <code>People</code> component. I used the same method for each component </li>
 <br>
 <p align="center" >
 <img  width=600 src="Project Visuals/jediverse_app/jv-app.png" alt="animated"/>
 </p>
+<br>
 
-<li> Each state variable manages the state for each individual component that I created. I also used pagination, as each endpoint, contains between 30-80 objects. I wanted to use pagination to design a dynamic UI that allows the user to flip through each page of data. Upon initially fetching the data, the page is always set to 1. I also created the event handlers (<code>handleNextPage</code> & <code>handlePreviousPage</code>) needed to move through each page of data for each endpoint. The event handlers were then passed as props to all of the compenents. <code>next</code> and <code>previous</code>.
+
+<li> Each endpoint, contains between 30-80 objects, each displaying about 10 objects per page. In order to show the data for each page I used pagination to design a dynamic UI that allows the user to flip through each page by simply pressing "Next". Should the user want to go back to the previous page they can just click the "Previous" button. </li>
+
+<br>
+<p align="center" >
+<img  width=600 src="Project Visuals/jediverse_app/jv-page-buttons.png" alt="animated">
+</p>
+<br>
+<p align="center"><i>The circled area in the photo above, shows how the "Next" and "Previous" buttons look on the UI. </i></p>
+
+<li>Upon initially fetching the data, the page is always set to 1. I also created the event handlers (<code>handleNextPage</code> & <code>handlePreviousPage</code>) needed to move through each page of data for each endpoint. The event handlers were then passed as props to all of the compenents. <code>next</code> and <code>previous</code>.
 </li>
 
 <br>
@@ -64,18 +91,27 @@ The JediVerse is frontend web application that I created during the Multiverse F
 <p align="center"><i> As shown in the photo above, for the People component, on line 20, I styled each piece of data that was I mapping in a grid so that I could display the data in a way that was readable to the user. Each card has a header, a title, and a description, which includes the individual atrributes that are present for the People component.</i></p>
 
 <li>In order to display the information that is shown on each page, for each component I created the variables <code>totalPages</code> and <code>isLastPage</code>. Each data component follows this structure, the Navbar and Home components were built slightly different.</li>
+<br>
+<p align="center" >
+<img  width=600 src="Project Visuals/jediverse_app/jv-page.png" alt="home-page"/>
+</p>
+<br>
 
+<li> For the look and feel of the UI, I used Semantics UI and Semantics CSS, to style the buttons as well give the color scheme to the Navbar. I used CSS to add a background image and also used a cursor website that allowed me to set the cursor as R2-D2. I created a css file, <code>App.css</code> in order to add some styling to the UI.</li> 
 
-<li> For the look and feel of the UI, I used Semantics UI and Semantics CSS, to style the buttons as well give the color scheme to the Navbar. I used CSS to add a background image and also used a cursor website that allowed me to set the cursor as R2-D2.</li> 
+<br>
+<p align="center" >
+<img  width=600 src="Project Visuals/jediverse_app/jv-app-css.png" alt="home-page"/>
+</p>
+<br>
 
-
-<li>Last but not least, I made my homepage very interactive. On the homepage I added each movie poster for each Star Wars movie. In order to have each poster show up on after the other, I created and array called <code>posters</code>, that held 9 different objects with the key-value pairs of <code>image</code> and <code>video</code>. </li>
+<li>Last but not least, I made my homepage very interactive. On the homepage I added the movie poster for each Star Wars movie. In order to have each poster show up one after the other, I created and array called <code>posters</code>, that held 9 different objects with the key-value pairs of <code>image</code> and <code>video</code>. The key of <code>image</code> holds the link to movie poster as a value and the key <code>video</code> holds the link to external video source as a value.</li>
 
 <br>
 <p align="center" >
 <img  width=600 src="Project Visuals/jediverse_app/jv-home-page.jpg" alt="home-page"/>
 </p>
-<p align="center"><i>Here you can see how the movie posters and home page has been designed. At the top included a gif and provided a brief description of wjat can be found on my application. The navbar can be seen at very top portion of the page and clearly maps out each tab to each API endpoint.</i></p>
+<p align="center"><i>Here you can see how the movie posters and home page were designed. At the top, I included a gif and provided a brief description of what the user can see within my application. The navbar can be seen at very top portion of the page and clearly maps out each tab to each API endpoint.</i></p>
 <br>
 
 <li> Next, I was given the task of making the posters clickable so when the user hovers over the poster a message pops up that says "Click me!" and then takes the user to an external link. In order to complete this, I create two pieces of state <code>hoveredIndex</code> and <code>setHoveredIndex</code> this piece of state changes each time a user hovers over an image.</li>
@@ -94,6 +130,7 @@ The JediVerse is frontend web application that I created during the Multiverse F
 <img  width=600 src="Project Visuals/jediverse_app/jv-home-map-logic.png" alt="home-page"/>
 </p>
 
+<p align="center">There you have it! This is the <b><i>JediVerse</b></i>!</p>
 
 ## :movie_camera: Result (Video Presentation + Project Repo) 
 
