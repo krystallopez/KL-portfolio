@@ -42,10 +42,10 @@ The Inventory App is a fullstack web application created for Bootcamp Part 2, We
 <br>
 
 <p align="center" >
-<img  width=600 src="Project Visuals/inventory_app/fun-code2.png" alt="animated"/>
+<img  width=600 src="Project Visuals/inventory_app/fun-code1.png" alt="animated"/>
 </p>
    
-<p align="center"><i>Here is a snippet of the Items model that I created for this application. As you can see, each attribute has a defined data type</i></p>
+<p align="center"><i>Here is a snippet of the Items routes that I assisted with for this application.</i></p>
 
 ## :movie_camera: Result (Video Presenation + Project Repo) 
 
@@ -88,10 +88,6 @@ Backend
 
  Not only did I work independently on the parts that I added to this project but I also effectively collaborated with my team. In order to complete this action, I helped to facilitate weekly meetings not only to discuss project topics but to also to discuss how to begin the SDLC for our project. I would work with my team to assign individual tasks to each member of the group, make sure that they were comfortable with the task, and also offered help should the need arise. I also created a group WebEx space so that we could all effectively communicate with each other.
 
-
- <p align="center" >
-<img  width=600 src="Project Visuals/inventory_app/fun-code2.png" alt="animated"/>
-</p>
 
 ### JF 1.6
 
