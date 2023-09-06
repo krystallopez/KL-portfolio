@@ -10,6 +10,12 @@ The Inventory App is a fullstack web application created for Bootcamp Part 2, We
 
 - There are a lot of core parts to this project, specifically the <code>public</code> and <code>server</code> files. The <code>public</code> folder houses all of the code for the frontend UI. The <code>server</code> folder houses all of the code for the backend.
 
+<br>
+<p align="center" >
+<img  width=600 src="Project Visuals/inventory_app/fun1.png" alt="animated"/>
+</p>
+
+
 
 - The design for this project was mainly focused on user readability and the backend codebase. We wanted to make sure that all of information that was needed was being fetched properly from the backend. My team and I held sessions in which we delegated each task necessary to complete the project.
 
@@ -145,14 +151,6 @@ For this project, I was able to create a test for each endpoint to ensure that a
 
 
 </ol>
-
-## Installation 
-<ul>
-<li><code>`npm install`</code></li>
-<li><code>`npm run seed`</code></li>
-<li><code>`npm run server-dev</code></li>
-<li>In a seperate terminal, <code>`npm run client-dev`</code></li>
-</ul>
 
 ## Collaborators
 <ul>
