@@ -21,6 +21,16 @@ Here are the links to each section of my portfolio:
 
 - [Cisco](https://github.com/krystallopez/kl-portfolio/tree/main/Cisco)
 
+
+## Introduction
+
+Hello there! :wave:, my name is Krystal Lopez! I am a Full Stack Software Engineer Apprentice at Cisco Systems, Inc. Coding has not always been something that I was interested in, but after working in customer service for over 10 years, in 2020 I decided that I needed a serious change of scenery. I started my first bootcamp, Actualize back in May 2021, and it has been quite the journey ever since! I have grown as an engineer ten fold since I started my coding journey. I love coding because everyday there is something new to learn, a new framework to master, new syntax to learn, a new way of writing an algoritm. Plus, coding is all around us! In our TV screens or our video game controllers, in the streetlights that help control traffic, everywhere!. I love coding because it influences the word around us and helps to make the world a better place. 
+
+I enjoy seeing my hard work come to fruition and seeing the impact that it has within my team. I can honestly say that throughout the duration of this apprenticeship, I have truly tested my limits to see how far I could go. I have worked on a team of 3-4 developers and we have built great things together.  I took part in my first major team project, focusing on frontend development as well as backend, fullstack application development, and deployment. At Cisco, I have utilized my skills that I learned not only from Multiverse, but from my previous bootcamp, Actualize as well. These skills have helped to work and collaborate with my teammates as well develop solutions for our internal customers. I have a special interest in fullstack web development, especially front-end design. 
+
+
+
+
 <!-- Portfolio Introduction:
 
 - Who you are
