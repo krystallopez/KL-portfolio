@@ -16,7 +16,7 @@ The JediVerse is frontend web application that I created during the Multiverse F
 
 <br>
 <p align="center" >
-<img  width=600 src="Project Visuals/screenshots/jediverse-wireframe.png" alt="animated"/>
+<img  width=600 src="Project Visuals/jedi/jediverse-wireframe.png" alt="animated"/>
 </p>
 
 
@@ -28,7 +28,7 @@ The JediVerse is frontend web application that I created during the Multiverse F
 
 <br>
 <p align="center" >
-<img  width=600 src="Project Visuals/screenshots/jv-app.png" alt="animated"/>
+<img  width=600 src="Project Visuals/jediverse_app/jv-app.png" alt="animated"/>
 </p>
 
 <li> Each state variable manages the state for each individual component that I created. I also used pagination, as each endpoint, contains between 30-80 objects. I wanted to use pagination to design a dynamic UI that allows the user to flip through each page of data. Upon initially fetching the data, the page is always set to 1. I also created the event handlers (<code>handleNextPage</code> & <code>handlePreviousPage</code>) needed to move through each page of data for each endpoint. The event handlers were passed as props, <code>next</code> and <code>previous</code>.
@@ -39,40 +39,53 @@ The JediVerse is frontend web application that I created during the Multiverse F
 
 <li> I followed the same data structure for each of the components, pulling only specific key-values that I wanted to be visible to the user. I used the map function to map through each object so that they could easily be displayed in an array. In order to display the information. For each component I created the variables <code>totalPages</code> and <code>isLastPage</code>. Each data component follows this structure, the Navbar and Home components were built slightly different.
 </li>
+<br>
+<p align="center" >
+<img  width=600 src="Project Visuals/jediverse_app/jv-people.png" alt="animated"/>
+</p>
+
+<p align="center"><i> As shown in the photo above, for the People component, on line 20, I styled each piece of data that was I mapping in a grid so that I could display the data in a way that was readable to the user. Each card has a header, a title, and a description, which includes the individual atrributes that are present for the People component.</i></p>
+
+<li>I created the Navbar using the Menu and Container components from Semantic React to set the navbar in a container and to give eacg endpoint link a name in the navbar as. I used the Link component from the react router dom to add the endpoints for each component.</li>
+<br>
+<p align="center" >
+<img  width=600 src="Project Visuals/jediverse_app/jv-navbar-code.png" alt="animated"/>
+</p>
 
 <br>
 
 <p align="center" >
-<img  width=600 src="Project Visuals/screenshots/swapi-data.png" alt="animated"/>
+<img  width=600 src="Project Visuals/jediverse_app/swapi-data.png" alt="animated"/>
 </p>
 <p align="center"><i>This is how the data looks when grabbed from the API directly, as you can see in the photo below, I only grabbed certain key values in order to display specific pieces of information.</i></p>
 <br>
-<p align="center" >
-<img  width=600 src="Project Visuals/screenshots/jv-people.png" alt="animated"/>
-</p>
 
-<p align="center"><i> As shown in the photo above, on line 20, I styled each piece of data that was I mapping in a grid so that I could display the data in a way that was readable to the user. Each card has a header, a title, and a description, which includes the individual atrributes that are present for the People component.</i></p>
-
-
-<li> For the look and feel on the UI, I used Semantics UI and Semantics CSS, to style the buttons as well give the color scheme to the Navbar. I used CSS to add a background image and also used a cursor website that allowed me to set the cursor as R2-D2.</li> 
+<li> For the look and feel of the UI, I used Semantics UI and Semantics CSS, to style the buttons as well give the color scheme to the Navbar. I used CSS to add a background image and also used a cursor website that allowed me to set the cursor as R2-D2.</li> 
 
 <li>Last but not least, I made my homepage very interactive. On the homepage I added each movie poster for each Star Wars movie. In order to have each poster show up on after the other, I created and array called <code>posters</code>, that held 9 different objects with the key-value pairs of <code>image</code> and <code>video</code>. </li>
 
 <br>
 <p align="center" >
-<img  width=600 src="Project Visuals/screenshots/jv-home-page.jpg" alt="home-page"/>
+<img  width=600 src="Project Visuals/jediverse_app/jv-home-page.jpg" alt="home-page"/>
 </p>
 <p align="center"><i>Here you can see how the movie posters and home page has been designed. At the top included a gif and provided a brief description of wjat can be found on my application. The navbar can be seen at very top portion of the page and clearly maps out each tab to each API endpoint.</i></p>
+<br>
 
 <li> Next, I was given the task of making the posters clickable so when the user hovers over the poster a message pops up that says "Click me!" and then takes the user to an external link. In order to complete this, I create two pieces of state <code>hoveredIndex</code> and <code>setHoveredIndex</code> this piece of state changes each time a user hovers over an image.</li>
- 
- ***add screenshot of state here***
+<br>
+<p align="center" >
+<img  width=600 src="Project Visuals/jediverse_app/jv-home-state.png" alt="home-page"/>
+</p>
+
+<p align="center"><i>Above, you can see the state used to track whether or not a user has hovered their cursor over one of the movie poster images</i></p>
+<br>
 
 <li>I used the map function to go through each index of the <code>posters</code> array and diplayed each one in a grid column in the form of a card. Once this was established, I used the event handler, onMouse and created logic that would display the "Click me!" message each time the cursor was over the poster image. I also created logic that when the user navigated over to the poster image and clicked on it, it would then take them to an external link, this link being the <code>poster.video</code> attribute. </li>
 
-
-
-***add screen of map function and onMouse event logic here***
+<br>
+<p align="center" >
+<img  width=600 src="Project Visuals/jediverse_app/jv-home-map-logic.png" alt="home-page"/>
+</p>
 
 
 ## :movie_camera: Result (Video Presentation + Project Repo) 
