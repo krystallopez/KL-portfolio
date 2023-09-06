@@ -106,7 +106,11 @@ The JediVerse is frontend web application that I created during the Multiverse F
 <br>
 
 <li>Last but not least, I made my homepage very interactive. On the homepage I added the movie poster for each Star Wars movie. In order to have each poster show up one after the other, I created and array called <code>posters</code>, that held 9 different objects with the key-value pairs of <code>image</code> and <code>video</code>. The key of <code>image</code> holds the link to movie poster as a value and the key <code>video</code> holds the link to external video source as a value.</li>
-
+<br>
+<p align="center" >
+<img  width=600 src="Project Visuals/jediverse_app/jv-home.png" alt="home"/>
+</p>
+<p align="center"><i>Here you can see the <code>posters</code> array,an array of objects, which holds the keys <code>image</code> and <code>video</code> and their values.</i></p>
 <br>
 <p align="center" >
 <img  width=600 src="Project Visuals/jediverse_app/jv-home-page.jpg" alt="home-page"/>
@@ -130,7 +134,7 @@ The JediVerse is frontend web application that I created during the Multiverse F
 <img  width=600 src="Project Visuals/jediverse_app/jv-home-map-logic.png" alt="home-page"/>
 </p>
 
-<p align="center">There you have it! This is the <b><i>JediVerse</b></i>!</p>
+<p>There you have it! This is the <b><i>JediVerse</b></i>!
 
 ## :movie_camera: Result (Video Presentation + Project Repo) 
 
