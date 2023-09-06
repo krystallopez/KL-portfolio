@@ -134,7 +134,7 @@ The JediVerse is frontend web application that I created during the Multiverse F
 <img  width=600 src="Project Visuals/jediverse_app/jv-home-map-logic.png" alt="home-page"/>
 </p>
 
-<p>There you have it! This is the <b><i>JediVerse</b></i>!
+<p align="center">There you have it! This is the <b><i>JediVerse</b></i>!
 
 ## :movie_camera: Result (Video Presentation + Project Repo) 
 
