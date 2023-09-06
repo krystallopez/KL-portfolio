@@ -16,13 +16,27 @@ The JediVerse is frontend web application that I created during the Multiverse F
 
 <br>
 <p align="center" >
-<img  width=600 src="Project Visuals/jedi/jediverse-wireframe.png" alt="animated"/>
+<img  width=600 src="Project Visuals/jediverse_app/jediverse-wireframe.png" alt="animated"/>
 </p>
 
 
 ## :computer: Action 
 
-<li> I built the JediVerse by using React and linking the Star Wars API better known as SWAPI. I followed the documentation listed on the API website and following the examples on to reach each endpoint. Using a navbar component, I was able to create a navbar that holds individual tabs that navigate to each endpoint.</li>
+<li> I built the JediVerse by using React and linking the Star Wars API better known as SWAPI. I followed the documentation listed on the API website and following the examples on to reach each endpoint. </li>
+<br>
+<p align="center" >
+<img  width=600 src="Project Visuals/jediverse_app/swapi-data.png" alt="animated"/>
+</p>
+<p align="center"><i>This is how the data looks when grabbed from the API directly, further down you will be able to see how I pulled specific key-values for each component.</i></p>
+<br>
+
+<li>Using a navbar component, I created the Navbar using the Menu and Container components from Semantic React to set the navbar in a container and to give each endpoint link a name in the navbar as. I used the Link component from the react router dom to add the endpoints for each component.</li>
+<br>
+<p align="center" >
+<img  width=600 src="Project Visuals/jediverse_app/jv-navbar-code.png" alt="animated"/>
+</p>
+
+<br>
 
 <li>In the <code>App.js</code>, I established all of the state variables needed to fetch all of the information needed from the Star Wars API. I created multiple fetch calls in order to fetch all of the information that I needed from the different endpoints in the API. Each component has a different endpoint in which data is being fetched. The data from each endpoint was passed as a prop to each component, under the name of <code>data</code>. Each instance of <code>data</code> held the value of the different state variables that created for each component.</li>
 
@@ -50,21 +64,7 @@ The JediVerse is frontend web application that I created during the Multiverse F
 <p align="center"><i> As shown in the photo above, for the People component, on line 20, I styled each piece of data that was I mapping in a grid so that I could display the data in a way that was readable to the user. Each card has a header, a title, and a description, which includes the individual atrributes that are present for the People component.</i></p>
 
 <li>In order to display the information that is shown on each page, for each component I created the variables <code>totalPages</code> and <code>isLastPage</code>. Each data component follows this structure, the Navbar and Home components were built slightly different.</li>
-<br>
 
-<li>I created the Navbar using the Menu and Container components from Semantic React to set the navbar in a container and to give eacg endpoint link a name in the navbar as. I used the Link component from the react router dom to add the endpoints for each component.</li>
-<br>
-<p align="center" >
-<img  width=600 src="Project Visuals/jediverse_app/jv-navbar-code.png" alt="animated"/>
-</p>
-
-<br>
-
-<p align="center" >
-<img  width=600 src="Project Visuals/jediverse_app/swapi-data.png" alt="animated"/>
-</p>
-<p align="center"><i>This is how the data looks when grabbed from the API directly, as you can see in the photo below, I only grabbed certain key values in order to display specific pieces of information.</i></p>
-<br>
 
 <li> For the look and feel of the UI, I used Semantics UI and Semantics CSS, to style the buttons as well give the color scheme to the Navbar. I used CSS to add a background image and also used a cursor website that allowed me to set the cursor as R2-D2.</li> 
 
