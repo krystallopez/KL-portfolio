@@ -1,4 +1,4 @@
-# Project 3 - JediVerse
+# Project 2 - JediVerse
 
 A high-level overview of the project purpose:
 
