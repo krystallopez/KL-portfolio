@@ -156,9 +156,65 @@ Front End
 <li>Semantics UI CSS</li>
 </ul>
 
-Linked API 
+API 
  
 - [Star Wars API](https://swapi.dev/)
 
 ## :book: Competencies
 
+
+### JF 1.6
+
+#### Can follow software designs and functional/technical specifications
+
+With this project, I was able to design my own software and workout what technologies that I wanted to use. Doing so allowed me to explore new frameworks and expanded my understanding of React and how CSS frameworks can vary. I held myself accountable by keeping track of my tasks using a GitHub project board. I utilized the project board to help me lay out each task and project tier so that I could effectively keep track of what tasks that I had already completed. This allowed me to really visualize how I wanted my application to look.
+
+<br>
+<p align="center" >
+<img  width=600 src="Project Visuals/jediverse_app/jv-project-board.png" alt="home-page"/>
+</p>
+
+### JF 2.3
+
+#### Can develop effective user interfaces
+
+This project was a huge challenge for me. I have never built a React application from scratch before. I have also never really used an external API to build out an application. I researched different ways to make an effective React application and tried place myself in the position of user. In doing so, I was able to effectively create a very cool and interactive user interface. I used a navbar so that a user can easily navigte to the different endpoints and made the home page interactive so that users would want to come back and engage further with my application. I used various functions to create each component with custom logic in order to get the UI that I wanted. 
+
+
+### JF 2.4
+
+#### Can create simple software designs to effectively communicate understanding of the program
+
+I primarily focused on making this application extremely user friendly. I chose very simple styling so that as a user the application would be easy to navigate through. In my presentation I utilized developer tools in Google Chrome, to show how my application communciated with the API that I was using. Doing so allowed me to articualte the functionality within my application. 
+
+### JF 2.6
+
+#### Can translate wireframes into User Interfaces
+
+I used a wireframe for this project to lay out how I want my frontend to interact with the API. Using a wireframe allowed me to really think about what I wanted from this application and how I wanted it to look. I was able to breakdown and visualize how I wanted users to interact with my application. While my application is simplistic in its design, using a wireframe for the planning portion of the project was very useful. 
+
+
+### JF 3.4 
+
+#### Can create a logical and maintainable codebase
+
+In taking on this project alone, it allowed me to practice more version control. When pushing up code to my repository, I tried to make each commit very detailed so that way if another engineer wanted to read through my commits they would be able to understand what was done in each commit. I would push up multiple commits a day as I was constanly updating and adding to my codebase as well. 
+
+
+<br>
+<p align="center" >
+<img  width=600 src="Project Visuals/jediverse_app/jv-version-control.png" alt="home-page"/>
+</p>
+
+
+### JF 5.5
+
+#### Understands and can apply structured techniques to problem solving, can debug code and can understand the structure of programmes to identify and resolve issues
+
+When creating this application, there were a lot of obstacles that I faced, specifically when it came to debugging. In order to make sure that I was getting the desired information from each endpoint, I used console logs to verify that the data was in fact being retrieved in the browser. I also used Google Chrome developer tools to, specifically Network to see how long it took for calls to be made to the API and whether or not those calls were successful. I reviewed different documentaion in regards to React so that I could understand how to contruct my components better as well. 
+
+### JF 6.1
+
+#### Knows how best to communicate using different communication methods and how to adapt appropriately to different audiences
+
+For my presentation, prior to recording the presentation, rather, I took the time to think about how best to convey the information needed to get into the inner workings of my project. I took the time to break down complex explanations to something that a user can understand. I even used visual demonstrations, such as showing how I used developer tools to debug my work and see how long to it takes to get a response from the API. 
