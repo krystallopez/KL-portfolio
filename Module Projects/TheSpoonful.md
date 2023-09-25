@@ -74,9 +74,12 @@ The Spoonful Blog is a fullstack application created for Module 2 - Deployment, 
 <ul style="list-style-type=square">
 <br>
 <li>Setting up front end folder and installing all front end dependencies</li>
+
 <li>Created <code> App, Form, Post, </code> and <code> PostList</code> components</li>
+
 <li> Established logic ands state for the <code> App, Form, Post, </code> and <code> 
 PostList</code> components</li>
+<br>
 <p align="left" >
 <img  width=600 src="Project Visuals/spoonful_app/spoonful-app-js.png" alt="animated"/>
 <br>
@@ -86,10 +89,14 @@ PostList</code> components</li>
 </p>
 <br>
 <li>Set up the file that would link the backend to the front end</li>
+<br>
 <p align="left" >
 <img  width=600 src="Project Visuals/spoonful_app/spoonful-backend-link.png" alt="animated"/>
+</p>
 <br>
-<li>Set up the <code>index.js</code> that </li>
+<li>Set up the root file for the front end</li>
+<p align="left" >
+<img  width=600 src="Project Visuals/spoonful_app/spoonful-react-root.png" alt="
 </ul>
 </li>
 
@@ -132,7 +139,6 @@ Other dependencies
 <li>Concurrently <code>(v8.0.1)</code></li>
 <li>Dotenv <code>(v16.0.3)</code></li>
 <li>Morgan <code>(v1.10.0)</code></li>
-<li></li>
 </ul>
 
 ## :book: Competencies
