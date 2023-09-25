@@ -11,14 +11,14 @@ The Spoonful Blog is a fullstack application created for Module 2 - Deployment, 
 <li> There are multiple core parts to this project, specifically the backend architecture and deployment architecture. The backend architecture is housed in the <code>server</code> folder and the CI/CD for deployment are housed in the <code>.github/workflows</code> folder. The frontend, a wonderful addition to project is housed in the <code>public</code> folder. </li>
 
 <br>
-<p align="left" >
+<p align="center" >
 <img  width=600 src="Project Visuals/spoonful_app/spoonful-home page .png" alt="animated"/>
 </p>
 
 <li> The design for this project was mainly focused on user readibility and executing CI/CD properly. We wanted to make sure that our backend architecture fell in line with the vision that we had for the frontend as well. My team and I held weekly meetings where we had planning sessions and delegated each task necessary to complete the project.</li>
 
 <br>
-<p align="left" >
+<p align="center" >
 <img  width=600 src="Project Visuals/spoonful_app/spoonful-kanban.png" alt="animated"/>
 </p>
 
@@ -32,12 +32,12 @@ The Spoonful Blog is a fullstack application created for Module 2 - Deployment, 
   <li>Establishing the server and models using <code>Sequelize</code> and <code>Sqlite3</code></li>
 
   <li>Creating the db file to instantiate the database</li>
-  <p align="left" >
+  <p align="center" >
   <img  width=600 src="Project Visuals/spoonful_app/spoonful-db-setup.png" alt="animated"/>
   </p>
 
   <li>Creating the <code>User</code> and <code>Post</code> models that establish the data types for the user and the posts.</li>
- <p align="left">
+ <p align="center">
   <img  width=600 src="Project Visuals/spoonful_app/spoonful-post-model.png" alt="animated"/>
   <br>
   <img  width=600 src="Project Visuals/spoonful_app/spoonful-user-model.png" alt="animated"/>
@@ -45,19 +45,19 @@ The Spoonful Blog is a fullstack application created for Module 2 - Deployment, 
   <br>
 
   <li>Creating a file to handle all middleware so that <code>HTTP</code> requests could be made and form input data could be handled from the front-end</li>
-  <p align="left">
+  <p align="center">
   <img  width=600 src="Project Visuals/spoonful_app/spoonful-middleware.png" alt="animated"/>
   </p>  
   <br>
 
   <li>Installed all necessary dependencies and packages needed to complete the project</li>
-    <p align="left">
+    <p align="center">
   <img  width=600 src="Project Visuals/spoonful_app/spoonful-dependencies.png" alt="animated"/>
   </p>
   <br> 
 
   <li>Setting up CI/CD files</li>
-  <p align="left">
+  <p align="center">
   <img  width=600 src="Project Visuals/spoonful_app/spoonful-ci-cd.png" alt="animated"/>
   </p>  
 
