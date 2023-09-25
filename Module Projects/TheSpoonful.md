@@ -32,11 +32,13 @@ The Spoonful Blog is a fullstack application created for Module 2 - Deployment, 
   <li>Establishing the server and models using <code>Sequelize</code> and <code>Sqlite3</code></li>
 
   <li>Creating the db file to instantiate the database</li>
+  <br>
   <p align="center" >
   <img  width=600 src="Project Visuals/spoonful_app/spoonful-db-setup.png" alt="animated"/>
   </p>
 
   <li>Creating the <code>User</code> and <code>Post</code> models that establish the data types for the user and the posts.</li>
+  <br>
  <p align="center">
   <img  width=600 src="Project Visuals/spoonful_app/spoonful-post-model.png" alt="animated"/>
   <br>
@@ -45,18 +47,21 @@ The Spoonful Blog is a fullstack application created for Module 2 - Deployment, 
   <br>
 
   <li>Creating a file to handle all middleware so that <code>HTTP</code> requests could be made and form input data could be handled from the front-end</li>
+  <br>
   <p align="center">
   <img  width=600 src="Project Visuals/spoonful_app/spoonful-middleware.png" alt="animated"/>
   </p>  
   <br>
 
   <li>Installed all necessary dependencies and packages needed to complete the project</li>
-    <p align="center">
+  <br>
+  <p align="center">
   <img  width=600 src="Project Visuals/spoonful_app/spoonful-dependencies.png" alt="animated"/>
   </p>
   <br> 
 
   <li>Setting up CI/CD files</li>
+  <br>
   <p align="center">
   <img  width=600 src="Project Visuals/spoonful_app/spoonful-ci-cd.png" alt="animated"/>
   </p>  
