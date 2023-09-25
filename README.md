@@ -25,7 +25,7 @@ Hello there! :wave:, my name is Krystal Lopez! I am a Full Stack Software Engine
 I enjoy seeing my hard work come to fruition and seeing the impact that it has within my team. I can honestly say that throughout the duration of this apprenticeship, I have truly tested my limits to see how far I could go. I have worked on a team of 3-4 developers and we have built great things together.  I took part in my first major team project, focusing on frontend development as well as backend, fullstack application development, and deployment. At Cisco, I have utilized my skills that I learned not only from Multiverse, but from my previous bootcamp, Actualize as well. These skills have helped to work and collaborate with my teammates as well develop solutions for our internal customers. I have a special interest in fullstack web development, especially front-end design. 
 
 
-## Testimonials
+### Testimonials
 
 During my on-the-job training, I had the opportunity to work and collaborate with a very talented group of engineers and IT professionals. Below are some reflections from my teammates about our time working together. 
 <br>
@@ -35,7 +35,7 @@ During my on-the-job training, I had the opportunity to work and collaborate wit
 <p><b><i>Diego Martinez Ballesteros, Team Leader at Cisco Systems, Inc.</i></b></p>
 <br>
 
-> <p><b>I work as a Technical Leader with the Thor Tooling team, which Krystal is a member of. I have worked on a number of small items with Krystal over the last 8 months on both the CHIM tool and SLO dashboard. Krystal has always been a fast learner, she asks the right questions to ensure she understands the tasks and is very adaptable. Her focus on customer service is very strong and she is willing to help customers even when she was still very new to the team and the projects we were working on. Krystal is punctual, contactable, and always pleasant to work with. She has made a number of solid contributions to the CHIM project that have helped the Tool to progess and meet our customers needs. I was also impressed with the presentation skills that Krystal showed for her Front-End Module project. I look forward to continuing to work ith Krystal in the future.</p> 
+> <p><b>I work as a Technical Leader with the Thor Tooling team, which Krystal is a member of. I have worked on a number of small items with Krystal over the last 8 months on incident management tooling and metric dashboard implentation. Krystal has always been a fast learner, she asks the right questions to ensure she understands the tasks and is very adaptable. Her focus on customer service is very strong and she is willing to help customers even when she was still very new to the team and the projects we were working on. Krystal is punctual, contactable, and always pleasant to work with. She has made a number of solid contributions to the CHIM project that have helped the Tool to progess and meet our customers needs. I was also impressed with the presentation skills that Krystal showed for her Front-End Module project. I look forward to continuing to work ith Krystal in the future.</p> 
 <p><b><i> Noel Healy, Technical Leader at Cisco Systems, Inc. </i></b></p>
 <br>
 
