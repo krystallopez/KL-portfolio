@@ -44,5 +44,5 @@ During my on-the-job training, I had the opportunity to work and collaborate wit
 
 <br>
 
-> <p><b>I worked with Krystal on a major project and she played a vital role in the success of the release earlier this year. Her contributions to this project were great. She took care of all front-end development and she promptly picked up the requirements and understood the backend implementation that was done by myseld and completed the work on React for various workflows of the various stages of the project. She has a very good communication skills and is very appreciated by customers and our team. She is a fast-learner and good team player.</b></p>
+> <p><b>I worked with Krystal on a major project that we were assigned earlier this year and she played a vital role in the success of the release earlier this year. Her contributions to this project were great. She took care of all front-end development and she promptly picked up the requirements and understood the backend implementation that was done by myseld and completed the work on React for various workflows of the various stages of the project. She has a very good communication skills and is very appreciated by customers and our team. She is a fast-learner and good team player.</b></p>
 <p><b><i>Sivasubramanian Namasivayam, Cloud Engineer at Cisco Systems, Inc.</b></i></p>
