@@ -161,12 +161,24 @@ By reviewing all project requirements, myself and my team were able to break dow
 
 While implementing the code for the backend, i.e defining the models, I thought of ways the user could interact with the application. An example, being that a user could add a post to the site through the use of a form. If a user wanted to share a dish that they had recently, they are able to do so by submitting their photo and text through the use of a form. 
 
+### JF 2.3
+
+#### Can develop effective user interfaces
+
+This project was a huge challenge for me. I have never built a React application from scratch before. I researched different ways to make an effective React application and tried place myself in the position of user. In doing so, I was able to establish a great structure for the front end. My teammates and I were able to use various componest to help bring this application to life. I was also able to teach my team how to start a React application from scratch and how to create a form component. 
+
 
 ### JF 2.4 
 
 #### Can create simple software designs to effectively communicate understanding of the program
 
 I collaborated and took the lead on multiple tasks throughout this project, including the way in which our code was structured. I first started by building out the model for our backend so that we could accurately list all of the data that we needed to. I participated in various sessions that led to the creation of the logic around some of the endpoints as well as creating the logic for the test for each endpoint. I collaborated with my team on how the UI would be designed as well. 
+
+### JF 2.6
+
+#### Can translate wireframes into User Interfaces
+
+For this project, I and my team used a wireframe to lay out how we wanted our frontend to interact with the backend. Using a wireframe allowed us to really think about what we wanted from this application and how we all wanted it to look. Through this I was also able to communicate,breakdown, and visualize how I thought out users should interact with the application. While the application is simplistic in its design, using a wireframe for the planning portion of the project was very useful.
 
 ### JF 3.4
 
