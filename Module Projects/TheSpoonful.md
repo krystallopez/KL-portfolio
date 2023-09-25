@@ -22,10 +22,6 @@ The Spoonful Blog is a fullstack application created for Module 2 - Deployment, 
 <img  width=600 src="Project Visuals/spoonful_app/spoonful-kanban.png" alt="animated"/>
 </p>
 
-
-
-
-
 ## :computer: Action 
 
 
@@ -38,9 +34,33 @@ The Spoonful Blog is a fullstack application created for Module 2 - Deployment, 
 
 ## :floppy_disk: Technologies
 
-- list backend tech
-- list front end tech
-- list dependencies
+Front End 
+<ul>
+<li>React <code>(v18.2.0)</code></li>
+<li>Bootstrap <code>(v5.2.3)</code></li>
+<li>CSS</li>
+<li>HTML</li>
+<li>Parcel <code>(v2.8.3)</code> </li>
+<li> Parcel-Bundler <code>(v1.8.1)</code></li>
+<li>Babel <code>(v6.23.0)</code></li>
+</ul>
+
+Back End 
+<ul>
+<li>Express <code>(v4.18.2)</code></li>
+<li>CORS(Cross-origin resource sharing) <code>(v2.8.5)</code></li>
+<li>Jest <code>(v29.5.0)</code></li>
+<li>Sequelize <code>(v6.31.0)</code></li>
+<li>Sqlite3 <code>(v5.1.6)</code></li>
+</ul>
+
+Other dependencies
+<ul>
+<li>Concurrently <code>(v8.0.1)</code></li>
+<li>Dotenv <code>(v16.0.3)</code></li>
+<li>Morgan <code>(v1.10.0)</code></li>
+<li></li>
+</ul>
 
 ## :book: Competencies
 

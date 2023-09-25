@@ -72,7 +72,7 @@ Front End
   <li> CSS </li>
   <li> HTML5 </li>
   <li> Babel <code>(v7.15.0)</code></li>
-  <li> Parcel <code>(v18.2.0)</code> </li>
+  <li> Parcel <code>(v2.8.3)</code> </li>
   
   
 </ul> 
