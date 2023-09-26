@@ -125,7 +125,7 @@ Throughout this project, I assisted in merging pull requests from various branch
 
 ### JF 3.6 
 
-#### Can implemnet a RESTful API 
+#### Can implement a RESTful API 
 
 In order to complete this task, I followed the software architecture that makes an API RESTful, this includes:
 
