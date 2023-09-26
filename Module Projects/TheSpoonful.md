@@ -199,8 +199,16 @@ In order to complete this task, I followed the software architecture that makes 
 - Having data represented in the form of JSON 
 - Using resource-based data retrieval, For example, '/posys' represents a list of posts, but "/posts/1" represents a specific item. 
 
+### JF 5.5
+
+#### Understands and can apply structured techniques to problem solving, can debug code and can understand the structure of programmes to identify and resolve issues
+
+When creating this application, there were a lot of obstacles that I and my team faced, specifically when it came to debugging. In order to make sure that I was getting the desired information from each endpoint, my team and I used console logs to verify that the data was in fact being retrieved in the browser. My team and I also utilized our weekly team meetings to have debugging sessions to make sure that our application was working the way that we wanted. 
 
 
+### JF 6.5 
 
+#### Works collaboratively with a wide range of people in different roles, internally and externally, with a positive attitude to inclusion & diversity
 
+For this project I worked with two other people, it has never been difficult for me to work in a group and collaborate with others. I find that for certain projects this is the easiest approach, especially with projects that require multiple stages of development. Throughout the time that I worked with my teammates on this project, we all worked together to establish effective lines of communications and talk to resolve any issues that we may have had. We held team meeting twice a week to discuss any tasks that we were working on and worked to solve any bugs that came up as well. I made myself available to my teammates whenever they needed.
 
