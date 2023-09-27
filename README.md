@@ -12,8 +12,6 @@ Enjoy!
 During my time at Cisco Systems, I delivered value not only through improvements to my team's codebase but also added additional functionality as well. In this time I assisted in implementing a new component to the existing codebase, as well as, working on various user stories, epics, and bug fixes.
 Here are the links to each section of my portfolio:
 
-- [Personal Projects](https://github.com/krystallopez/kl-portfolio/tree/main/Personal%20Projects)
-
 - [Module Projects](https://github.com/krystallopez/kl-portfolio/tree/main/Module%20Projects)
 
 - [Testimonial](https://github.com/krystallopez/kl-portfolio#testimonials)
