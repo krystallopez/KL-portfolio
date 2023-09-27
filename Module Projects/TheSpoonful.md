@@ -109,6 +109,14 @@ PostList</code> components</li>
 
 ## :movie_camera: Result (Video Presenation + Project Repo)
 
+- [The Spoonful Blog Repo](https://github.com/the-spoonful-blog/spoonful-fullstack)
+- [Spoonful Blog README](https://github.com/the-spoonful-blog/spoonful-fullstack#readme)
+- [Spoonful Blog Kanban Board](https://github.com/orgs/the-spoonful-blog/projects/1/views/1?layout=board)
+
+<p align="center"><i>Click the thumbnail below to be redirected to the presentation video!</i></p>
+
+[![Watch the video](https://i.imgur.com/VuBVagh.png)](https://www.youtube.com/watch?v=w9821OUwI6Q)
+
 ## :floppy_disk: Technologies
 
 Front End
