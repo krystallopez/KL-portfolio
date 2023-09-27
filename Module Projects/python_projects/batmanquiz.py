@@ -90,7 +90,7 @@ else:
     print("Sorry, the correct answer is Alfred. C'mon, you gotta know some of the answers to some of these questions!\n")
 
 
-print("We are almost at the finish line1 \n")
+print("We are almost at the finish line! \n")
 response_6 = input("Question 6: On Batman: The Animated Series, who was the voice of the Joker?... Here's a hint, the actor who voices the Joker, was also a famous Jedi in the original Star Wars Trilogy. Can you guess who it is?!\n")
 
 if (response_6.lower() == "Mark Hamill".lower()):

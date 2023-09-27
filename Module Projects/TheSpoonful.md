@@ -1,14 +1,14 @@
 # Project 3 - The Spoonful Blog
- 
- An enhanced breakdown od the projec purpose: 
+
+ An enhanced breakdown of the project purpose:
 
 ## :memo: Situation
 
-The Spoonful Blog is a fullstack application created for Module 2 - Deployment, week 5 of the Multiverse Curriculum. The main concept of the Spoonful Blog is to create a fullstack web application that demonstrates profiency in frontend techologies such as React, backend technologies like Express, and successfully deploying an application using GitHub Actions. 
+The Spoonful Blog is a fullstack application created for Module 2 - Deployment, week 5 of the Multiverse Curriculum. The main concept of the Spoonful Blog is to create a fullstack web application that demonstrates profiency in frontend techologies such as React, backend technologies like Express, and successfully deploying an application using GitHub Actions.
 
-## :pushpin: Task 
+## :pushpin: Task
 
-<li> There are multiple core parts to this project, specifically the backend architecture and deployment architecture. The backend architecture is housed in the <code>server</code> folder and the CI/CD for deployment are housed in the <code>.github/workflows</code> folder. The frontend, a wonderful addition to project is housed in the <code>public</code> folder. </li>
+<li>There are multiple core parts to this project, specifically the backend architecture and deployment architecture. The backend architecture is housed in the <code>server</code> folder and the CI/CD for deployment are housed in the <code>.github/workflows</code> folder. The frontend, a wonderful addition to project is housed in the <code> public </code> folder. </li>
 
 <br>
 <p align="center" >
@@ -22,11 +22,11 @@ The Spoonful Blog is a fullstack application created for Module 2 - Deployment, 
 <img  width=600 src="Project Visuals/spoonful_app/spoonful-kanban.png" alt="animated"/>
 </p>
 
-## :computer: Action 
+## :computer: Action
 
 <li> My main contributions to the application revolved around backend and frontend development</li>
 
-<li> Backend Development 
+<li> Backend Development
 <br>
 <ul style="list-style-type: square">
   <li>Establishing the server and models using <code>Sequelize</code> and <code>Sqlite3</code></li>
@@ -58,7 +58,7 @@ The Spoonful Blog is a fullstack application created for Module 2 - Deployment, 
   <p align="center">
   <img  width=600 src="Project Visuals/spoonful_app/spoonful-dependencies.png" alt="animated"/>
   </p>
-  <br> 
+  <br>
 
   <li>Setting up CI/CD files</li>
   <br>
@@ -77,7 +77,7 @@ The Spoonful Blog is a fullstack application created for Module 2 - Deployment, 
 
 <li>Created <code> App, Form, Post, </code> and <code> PostList</code> components</li>
 
-<li> Established logic ands state for the <code> App, Form, Post, </code> and <code> 
+<li> Established logic ands state for the <code> App, Form, Post, </code> and <code>
 PostList</code> components</li>
 <br>
 <p align="left" >
@@ -100,7 +100,6 @@ PostList</code> components</li>
 </ul>
 </li>
 
-
 <li> Other contributions
 <ul style="list-style-type=square">
 <li>Helped to create logos for the application</li>
@@ -108,13 +107,11 @@ PostList</code> components</li>
 </ul>
 </li>
 
-## :movie_camera: Result (Video Presenation + Project Repo) 
-
-
+## :movie_camera: Result (Video Presenation + Project Repo)
 
 ## :floppy_disk: Technologies
 
-Front End 
+Front End
 <ul>
 <li>React <code>(v18.2.0)</code></li>
 <li>Bootstrap <code>(v5.2.3)</code></li>
@@ -125,7 +122,7 @@ Front End
 <li>Babel <code>(v6.23.0)</code></li>
 </ul>
 
-Back End 
+Back End
 <ul>
 <li>Express <code>(v4.18.2)</code></li>
 <li>CORS(Cross-origin resource sharing) <code>(v2.8.5)</code></li>
@@ -153,26 +150,25 @@ Other dependencies
 
 #### Can follow software designs and functional/technical specifications
 
-By reviewing all project requirements, myself and my team were able to break down how this project needed to be completed. By following the guidelines that were laid out for each tier of the project, I was able to complete each component of the project that was assigned to me. In doing so I was not only able to complete my assigned tasks but also assist with other tasks that were assigned to the team. 
+By reviewing all project requirements, myself and my team were able to break down how this project needed to be completed. By following the guidelines that were laid out for each tier of the project, I was able to complete each component of the project that was assigned to me. In doing so I was not only able to complete my assigned tasks but also assist with other tasks that were assigned to the team.
 
-### JF 2.1 
+### JF 2.1
 
 #### Can create and analyze artefacts, such as use cases and/or user stories
 
-While implementing the code for the backend, i.e defining the models, I thought of ways the user could interact with the application. An example, being that a user could add a post to the site through the use of a form. If a user wanted to share a dish that they had recently, they are able to do so by submitting their photo and text through the use of a form. 
+While implementing the code for the backend, i.e defining the models, I thought of ways the user could interact with the application. An example, being that a user could add a post to the site through the use of a form. If a user wanted to share a dish that they had recently, they are able to do so by submitting their photo and text through the use of a form.
 
 ### JF 2.3
 
 #### Can develop effective user interfaces
 
-This project was a huge challenge for me. I have never built a React application from scratch before. I researched different ways to make an effective React application and tried place myself in the position of user. In doing so, I was able to establish a great structure for the front end. My teammates and I were able to use various componest to help bring this application to life. I was also able to teach my team how to start a React application from scratch and how to create a form component. 
+This project was a huge challenge for me. I have never built a React application from scratch before. I researched different ways to make an effective React application and tried place myself in the position of user. In doing so, I was able to establish a great structure for the front end. My teammates and I were able to use various componest to help bring this application to life. I was also able to teach my team how to start a React application from scratch and how to create a form component.
 
-
-### JF 2.4 
+### JF 2.4
 
 #### Can create simple software designs to effectively communicate understanding of the program
 
-I collaborated and took the lead on multiple tasks throughout this project, including the way in which our code was structured. I first started by building out the model for our backend so that we could accurately list all of the data that we needed to. I participated in various sessions that led to the creation of the logic around some of the endpoints as well as creating the logic for the test for each endpoint. I collaborated with my team on how the UI would be designed as well. 
+I collaborated and took the lead on multiple tasks throughout this project, including the way in which our code was structured. I first started by building out the model for our backend so that we could accurately list all of the data that we needed to. I participated in various sessions that led to the creation of the logic around some of the endpoints as well as creating the logic for the test for each endpoint. I collaborated with my team on how the UI would be designed as well.
 
 ### JF 2.6
 
@@ -186,33 +182,33 @@ For this project, I and my team used a wireframe to lay out how we wanted our fr
 
 Throughout this project, I assisted in merging pull requests from various branches that were created for each component of the project. I collaborated and took the lead on multiple tasks that were assigned through the duration of this project as well. Through code reviews, I was able to review code with my team to merge and approve pull requests. By creating brances for specific components of the project, I was able to help maintain readability within the code base.
 
-### JF 3.6 
+### JF 3.6
 
-#### Can implement a RESTful API 
+#### Can implement a RESTful API
 
 In order to complete this task, I followed the software architecture that makes an API RESTful, this includes:
 
-- Having a client-server architecture, in this case, a front end that communicates directly with a backend that is made up of a server and HTTP requests 
-- Using multiple endpoints such as GET, POST, PUT, AND DELETE 
-- Using middleware to have access to sending requests and receieving responses via HTTP requests 
-- Having stateless-client communication 
-- Having data represented in the form of JSON 
-- Using resource-based data retrieval, For example, '/posys' represents a list of posts, but "/posts/1" represents a specific item. 
+- Having a client-server architecture, in this case, a front end that communicates directly with a backend that is made up of a server and HTTP requests
+- Using multiple endpoints such as GET, POST, PUT, AND DELETE
+- Using middleware to have access to sending requests and receieving responses via HTTP requests
+- Having stateless-client communication
+- Having data represented in the form of JSON
+- Using resource-based data retrieval, For example, '/posys' represents a list of posts, but "/posts/1" represents a specific item.
 
 ### JF 5.5
 
 #### Understands and can apply structured techniques to problem solving, can debug code and can understand the structure of programmes to identify and resolve issues
 
-When creating this application, there were a lot of obstacles that I and my team faced, specifically when it came to debugging. In order to make sure that I was getting the desired information from each endpoint, my team and I used console logs to verify that the data was in fact being retrieved in the browser. My team and I also utilized our weekly team meetings to have debugging sessions to make sure that our application was working the way that we wanted. 
+When creating this application, there were a lot of obstacles that I and my team faced, specifically when it came to debugging. In order to make sure that I was getting the desired information from each endpoint, my team and I used console logs to verify that the data was in fact being retrieved in the browser. My team and I also utilized our weekly team meetings to have debugging sessions to make sure that our application was working the way that we wanted.
 
-
-### JF 6.5 
+### JF 6.5
 
 #### Works collaboratively with a wide range of people in different roles, internally and externally, with a positive attitude to inclusion & diversity
 
 For this project I worked with two other people, it has never been difficult for me to work in a group and collaborate with others. I find that for certain projects this is the easiest approach, especially with projects that require multiple stages of development. Throughout the time that I worked with my teammates on this project, we all worked together to establish effective lines of communications and talk to resolve any issues that we may have had. We held team meeting twice a week to discuss any tasks that we were working on and worked to solve any bugs that came up as well. I made myself available to my teammates whenever they needed.
 
 ## Collaborators
+
 <ul>
 <li> Addy Rodriguez: <a href="https://github.com/AddyRdz">@AddyRdz</a></li>
 <li> Deja Clarke: <a href="https://github.com/dejac17">@dejac17</a></li>
