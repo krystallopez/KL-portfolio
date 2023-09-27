@@ -34,6 +34,17 @@ For this project, I built a series of different Python games:
 
 
 
+## :movie_camera: Result (Video Presentation + Project Repo) 
+
+
+## :floppy_disk: Technologies
+
+
+## :book: Competencies
+
+
+
+
 
 
 
