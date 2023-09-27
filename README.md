@@ -14,7 +14,7 @@ Here are the links to each section of my portfolio:
 
 - [Module Projects](https://github.com/krystallopez/kl-portfolio/tree/main/Module%20Projects)
 
-- [Testimonial](https://github.com/krystallopez/kl-portfolio#testimonials)
+- [Testimonials](https://github.com/krystallopez/kl-portfolio#testimonials)
 
 ## Introduction
 
