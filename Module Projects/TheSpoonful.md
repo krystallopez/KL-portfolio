@@ -145,7 +145,7 @@ Other dependencies
 
 ### JF 1.5
 
-#### <b>Can work effectively and contribute appropriately on a team to produce software</b>
+#### Can work effectively and contribute appropriately on a team to produce software
 
  Not only did I work independently on the parts that I added to this project but I also effectively collaborated with my team. In order to complete this action, I helped to facilitate weekly meetings not only to discuss project topics but to also to discuss how to begin the SDLC for our project. I would work with my team to assign individual tasks to each member of the group, make sure that they were comfortable with the task, and also offered help should the need arise. I also created a group WebEx space so that we could all effectively communicate with each other.
 
@@ -212,3 +212,9 @@ When creating this application, there were a lot of obstacles that I and my team
 
 For this project I worked with two other people, it has never been difficult for me to work in a group and collaborate with others. I find that for certain projects this is the easiest approach, especially with projects that require multiple stages of development. Throughout the time that I worked with my teammates on this project, we all worked together to establish effective lines of communications and talk to resolve any issues that we may have had. We held team meeting twice a week to discuss any tasks that we were working on and worked to solve any bugs that came up as well. I made myself available to my teammates whenever they needed.
 
+## Collaborators
+<ul>
+<li> Addy Rodriguez: <a href="https://github.com/AddyRdz">@AddyRdz</a></li>
+<li> Deja Clarke: <a href="https://github.com/dejac17">@dejac17</a></li>
+<li> Krystal Lopez: <a href="https://github.com/krystallopez">@krystallopez</a></li>
+</ul>
