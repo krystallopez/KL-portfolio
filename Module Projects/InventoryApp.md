@@ -1,10 +1,10 @@
 # Project 1 - The Inventory App 
 
-An enchanced breakdown of the project purpose:
+An enhanced breakdown of the project purpose:
 
 ## :memo: Situation
 
-The Inventory App is a fullstack web application created for Bootcamp Part 2, Week 8 of the Multiverse curriculum. The main concept of the Inventory App is a mock e-commerce app in which the e-commerce company can track the inventory of the items that are listed on the website.
+The Inventory App is a full-stack web application created for Bootcamp Part 2, Week 8 of the Multiverse curriculum. The main concept of the Inventory App is a mock e-commerce app in which the e-commerce company can track the inventory of the items that are listed on the website.
 
 ## :pushpin: Task 
 
@@ -17,7 +17,7 @@ The Inventory App is a fullstack web application created for Bootcamp Part 2, We
 
 
 
-- The design for this project was mainly focused on user readability and the backend codebase. We wanted to make sure that all of information that was needed was being fetched properly from the backend. My team and I held sessions in which we delegated each task necessary to complete the project.
+- The design for this project was mainly focused on user readability and the backend codebase. We wanted to make sure that all of the information that was needed was being fetched properly from the backend. My team and I held sessions in which we delegated each task necessary to complete the project.
 
 <br>
 
@@ -44,7 +44,7 @@ The Inventory App is a fullstack web application created for Bootcamp Part 2, We
 <img  width=600 src="Project Visuals/inventory_app/inventory-test.png" alt="animated"/>
 </p>
 
-<p align="center"><i>This a small snippet of the test that were written for this project.</i></p>
+<p align="center"><i>This is a small snippet of the test that was written for this project.</i></p>
 <br>
 
 <p align="center" >
@@ -93,7 +93,7 @@ Backend
 
 #### Can work effectively and contribute appropriately on a team to produce software
 
- Not only did I work independently on the parts that I added to this project but I also effectively collaborated with my team. In order to complete this action, I helped to facilitate weekly meetings not only to discuss project topics but to also to discuss how to begin the SDLC for our project. I would work with my team to assign individual tasks to each member of the group, make sure that they were comfortable with the task, and also offered help should the need arise. I also created a group WebEx space so that we could all effectively communicate with each other.
+ Not only did I work independently on the parts that I added to this project but I also effectively collaborated with my team. In order to complete this action, I helped to facilitate weekly meetings not only to discuss project topics but also to discuss how to begin the SDLC for our project. I would work with my team to assign individual tasks to each member of the group, make sure that they were comfortable with the task, and also offer help should the need arise. I also created a group WebEx space so that we could all effectively communicate with each other.
 
 
 ### JF 1.6
@@ -105,22 +105,22 @@ By reviewing all project requirements, myself and my team were able to break dow
 
 ### JF 2.1 
 
-#### Can create and analyze artefacts, such as use cases and/or user stories
+#### Can create and analyze artifacts, such as use cases and/or user stories
 
-While implementing the code for the backend, i.e defining the models, I thought of ways the user could interact with the application. An example, being that a user could add an item to the store through the use of a form. What if a worker was notified that the company was receiving a new item to the inventory and wanted to have a way to add it directly to the website? Not having a procedure to complete this action could slow down the momentum of the company. If a worker wants to add an item directtly to the company inventory then they can do so through the use of the form. 
+While implementing the code for the backend, i.e. defining the models, I thought of ways the user could interact with the application. An example is that a user could add an item to the store through the use of a form. What if a worker was notified that the company was receiving a new item to the inventory and wanted to have a way to add it directly to the website? Not having a procedure to complete this action could slow down the momentum of the company. If a worker wants to add an item directly to the company inventory then they can do so through the use of the form. 
 
 
 ### JF 2.4 
 
 #### Can create simple software designs to effectively communicate understanding of the program
 
-I collaborated and took the lead on multiple tasks throughout this project, including the way in which our code was structured. I first started by building out the model for our backend so that we could accurately list all of the data that we needed to. I participated in various creating the logic around some of the endpoints as well as creating the logic for the test for each endpoint. I collaborated with my team on how the UI would be designed as well. 
+I collaborated and took the lead on multiple tasks throughout this project, including the way in which our code was structured. I first started by building out the model for our backend so that we could accurately list all of the data that we needed. I participated in various creating the logic around some of the endpoints as well as creating the logic for the test for each endpoint. I collaborated with my team on how the UI would be designed as well. 
 
 ### JF 3.4
 
 #### Can create a logical and maintainable codebase
 
-Throughout this project, I assisted in merging pull requests from various branches that were created for each component of the project. I collaborated and took the lead on multiple tasks that were assigned through the duration of this project as well. Through code reviews, I was able to review code with my team to merge and approve pull requests. By creating brances for specific components of the project, I was able to help maintain readability within the code base. 
+Throughout this project, I assisted in merging pull requests from various branches that were created for each component of the project. I collaborated and took the lead on multiple tasks that were assigned throughout the duration of this project as well. Through code reviews, I was able to review code with my team to merge and approve pull requests. By creating branches for specific components of the project, I was able to help maintain readability within the code base. 
 
 
 ### JF 3.6 
@@ -131,7 +131,7 @@ In order to complete this task, I followed the software architecture that makes 
 
 - Having a client-server architecture, in this case, a front end that communicates directly with a backend that is made up of a server and HTTP requests 
 - Using multiple endpoints such as GET, POST, PUT, AND DELETE 
-- Using middleware to have access to sending requests and receieving responses via HTTP requests 
+- Using middleware to have access to sending requests and receiving responses via HTTP requests 
 - Having stateless-client communication 
 - Having data represented in the form of JSON 
 - Using resource-based data retrieval, For example, '/items' represents a list of items, but "/items/1" represents a specific item. 
@@ -141,7 +141,7 @@ In order to complete this task, I followed the software architecture that makes 
 
 #### Can identify and create test scenarios
 
-For this project, I was able to create a test for each endpoint to ensure that all of the data requested by each endpoint was accurately shown on the UI. This involved creating individual test for each endpoint and in those tests calling on specific pieces of data such as an item's description or an item's price. 
+For this project, I was able to create a test for each endpoint to ensure that all of the data requested by each endpoint was accurately shown on the UI. This involved creating individual tests for each endpoint and in those tests calling on specific pieces of data such as an item's description or an item's price. 
 
 
 <p align="center" >
