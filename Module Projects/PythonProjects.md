@@ -33,12 +33,21 @@ For this project, I built a series of different Python games:
 <li> The third game in this series, is the Batman Quiz. Similar to the Star Wars quiz, I followed the same steps using if conditionals and print statements to build the questions and answers. I also implemented a counter here, however, instead of tracking the user's score, I instead tracked how many questions the user answered correctly and printed out that number at the end of the quiz.</li>
 
 
+<li> The  
+</li>
+
+
 
 ## :movie_camera: Result (Video Presentation + Project Repo) 
 
+- [Original Python Repo](https://github.com/krystallopez/python-projects)
+- [Original Python Project README](https://github.com/krystallopez/python-projects/blob/main/README.md)
+
+[![Watch the video](https://i.imgur.com/14fpFtm.png)](https://www.youtube.com/watch?v=O_lS1W7XlJA)
 
 ## :floppy_disk: Technologies
 
+This entire project was built using only <code>Python 3</code>. 
 
 ## :book: Competencies
 
