@@ -4,18 +4,18 @@
 
 ## :memo: Situation
 
-The Spoonful Blog is a fullstack application created for Module 2 - Deployment, week 5 of the Multiverse Curriculum. The main concept of the Spoonful Blog is to create a fullstack web application that demonstrates profiency in frontend techologies such as React, backend technologies like Express, and successfully deploying an application using GitHub Actions.
+The Spoonful Blog is a full-stack application created for Module 2 - Deployment, week 5 of the Multiverse Curriculum. The main concept of the Spoonful Blog is to create a full-stack web application that demonstrates proficiency in frontend technologies such as React, and backend technologies like Express and successfully deploying an application using GitHub Actions.
 
 ## :pushpin: Task
 
-<li>There are multiple core parts to this project, specifically the backend architecture and deployment architecture. The backend architecture is housed in the <code>server</code> folder and the CI/CD for deployment are housed in the <code>.github/workflows</code> folder. The frontend, a wonderful addition to project is housed in the <code> public </code> folder. </li>
+<li>There are multiple core parts to this project, specifically the backend architecture and deployment architecture. The backend architecture is housed in the <code>server</code> folder and the CI/CD for deployment is housed in the <code>.github/workflows</code> folder. The front end, a wonderful addition to the project is housed in the <code> public </code> folder. </li>
 
 <br>
 <p align="center" >
 <img  width=600 src="Project Visuals/spoonful_app/spoonful-home page .png" alt="animated"/>
 </p>
 
-<li> The design for this project was mainly focused on user readibility and executing CI/CD properly. We wanted to make sure that our backend architecture fell in line with the vision that we had for the frontend as well. My team and I held weekly meetings where we had planning sessions and delegated each task necessary to complete the project.</li>
+<li> The design for this project was mainly focused on user readability and executing CI/CD properly. We wanted to make sure that our backend architecture fell in line with the vision that we had for the front end as well. My team and I held weekly meetings where we had planning sessions and delegated each task necessary to complete the project.</li>
 
 <br>
 <p align="center" >
@@ -73,11 +73,11 @@ The Spoonful Blog is a fullstack application created for Module 2 - Deployment, 
 
 <ul style="list-style-type=square">
 <br>
-<li>Setting up front end folder and installing all front end dependencies</li>
+<li>Setting up front-end folder and installing all front-end dependencies</li>
 
 <li>Created <code> App, Form, Post, </code> and <code> PostList</code> components</li>
 
-<li> Established logic ands state for the <code> App, Form, Post, </code> and <code>
+<li> Established logic and state for the <code> App, Form, Post, </code> and <code>
 PostList</code> components</li>
 <br>
 <p align="left" >
@@ -152,7 +152,7 @@ Other dependencies
 
 #### Can work effectively and contribute appropriately on a team to produce software
 
- Not only did I work independently on the parts that I added to this project but I also effectively collaborated with my team. In order to complete this action, I helped to facilitate weekly meetings not only to discuss project topics but to also to discuss how to begin the SDLC for our project. I would work with my team to assign individual tasks to each member of the group, make sure that they were comfortable with the task, and also offered help should the need arise. I also created a group WebEx space so that we could all effectively communicate with each other.
+ Not only did I work independently on the parts that I added to this project but I also effectively collaborated with my team. In order to complete this action, I helped to facilitate weekly meetings not only to discuss project topics but also to discuss how to begin the SDLC for our project. I would work with my team to assign individual tasks to each member of the group, make sure that they were comfortable with the task, and also offer help should the need arise. I also created a group WebEx space so that we could all effectively communicate with each other.
 
 ### JF 1.6
 
@@ -162,33 +162,33 @@ By reviewing all project requirements, myself and my team were able to break dow
 
 ### JF 2.1
 
-#### Can create and analyze artefacts, such as use cases and/or user stories
+#### Can create and analyze artifacts, such as use cases and/or user stories
 
-While implementing the code for the backend, i.e defining the models, I thought of ways the user could interact with the application. An example, being that a user could add a post to the site through the use of a form. If a user wanted to share a dish that they had recently, they are able to do so by submitting their photo and text through the use of a form.
+While implementing the code for the backend, i.e. defining the models, I thought of ways the user could interact with the application. An example is that a user could add a post to the site through the use of a form. If a user wanted to share a dish that they had recently, they are able to do so by submitting their photo and text through the use of a form.
 
 ### JF 2.3
 
 #### Can develop effective user interfaces
 
-This project was a huge challenge for me. I have never built a React application from scratch before. I researched different ways to make an effective React application and tried place myself in the position of user. In doing so, I was able to establish a great structure for the front end. My teammates and I were able to use various componest to help bring this application to life. I was also able to teach my team how to start a React application from scratch and how to create a form component.
+This project was a huge challenge for me. I have never built a React application from scratch before. I researched different ways to make an effective React application and tried to place myself in the position of a user. In doing so, I was able to establish a great structure for the front end. My teammates and I were able to use various components to help bring this application to life. I was also able to teach my team how to start a React application from scratch and how to create a form component.
 
 ### JF 2.4
 
 #### Can create simple software designs to effectively communicate understanding of the program
 
-I collaborated and took the lead on multiple tasks throughout this project, including the way in which our code was structured. I first started by building out the model for our backend so that we could accurately list all of the data that we needed to. I participated in various sessions that led to the creation of the logic around some of the endpoints as well as creating the logic for the test for each endpoint. I collaborated with my team on how the UI would be designed as well.
+I collaborated and took the lead on multiple tasks throughout this project, including the way in which our code was structured. I first started by building out the model for our backend so that we could accurately list all of the data that we needed. I participated in various sessions that led to the creation of the logic around some of the endpoints as well as creating the logic for the test for each endpoint. I collaborated with my team on how the UI would be designed as well.
 
 ### JF 2.6
 
 #### Can translate wireframes into User Interfaces
 
-For this project, I and my team used a wireframe to lay out how we wanted our frontend to interact with the backend. Using a wireframe allowed us to really think about what we wanted from this application and how we all wanted it to look. Through this I was also able to communicate,breakdown, and visualize how I thought out users should interact with the application. While the application is simplistic in its design, using a wireframe for the planning portion of the project was very useful.
+For this project, I and my team used a wireframe to lay out how we wanted our front end to interact with the backend. Using a wireframe allowed us to really think about what we wanted from this application and how we all wanted it to look. Through this, I was also able to communicate, break down, and visualize how I thought users should interact with the application. While the application is simplistic in its design, using a wireframe for the planning portion of the project was very useful.
 
 ### JF 3.4
 
 #### Can create a logical and maintainable codebase
 
-Throughout this project, I assisted in merging pull requests from various branches that were created for each component of the project. I collaborated and took the lead on multiple tasks that were assigned through the duration of this project as well. Through code reviews, I was able to review code with my team to merge and approve pull requests. By creating brances for specific components of the project, I was able to help maintain readability within the code base.
+Throughout this project, I assisted in merging pull requests from various branches that were created for each component of the project. I collaborated and took the lead on multiple tasks that were assigned throughout the duration of this project as well. Through code reviews, I was able to review code with my team to merge and approve pull requests. By creating branches for specific components of the project, I was able to help maintain readability within the code base.
 
 ### JF 3.6
 
@@ -198,14 +198,14 @@ In order to complete this task, I followed the software architecture that makes 
 
 - Having a client-server architecture, in this case, a front end that communicates directly with a backend that is made up of a server and HTTP requests
 - Using multiple endpoints such as GET, POST, PUT, AND DELETE
-- Using middleware to have access to sending requests and receieving responses via HTTP requests
+- Using middleware to have access to sending requests and receiving responses via HTTP requests
 - Having stateless-client communication
 - Having data represented in the form of JSON
 - Using resource-based data retrieval, For example, '/posys' represents a list of posts, but "/posts/1" represents a specific item.
 
 ### JF 5.5
 
-#### Understands and can apply structured techniques to problem solving, can debug code and can understand the structure of programmes to identify and resolve issues
+#### Understands and can apply structured techniques to problem-solving, can debug code, and can understand the structure of programs to identify and resolve issues
 
 When creating this application, there were a lot of obstacles that I and my team faced, specifically when it came to debugging. In order to make sure that I was getting the desired information from each endpoint, my team and I used console logs to verify that the data was in fact being retrieved in the browser. My team and I also utilized our weekly team meetings to have debugging sessions to make sure that our application was working the way that we wanted.
 
@@ -213,7 +213,7 @@ When creating this application, there were a lot of obstacles that I and my team
 
 #### Works collaboratively with a wide range of people in different roles, internally and externally, with a positive attitude to inclusion & diversity
 
-For this project I worked with two other people, it has never been difficult for me to work in a group and collaborate with others. I find that for certain projects this is the easiest approach, especially with projects that require multiple stages of development. Throughout the time that I worked with my teammates on this project, we all worked together to establish effective lines of communications and talk to resolve any issues that we may have had. We held team meeting twice a week to discuss any tasks that we were working on and worked to solve any bugs that came up as well. I made myself available to my teammates whenever they needed.
+For this project I worked with two other people, it has never been difficult for me to work in a group and collaborate with others. I find that for certain projects this is the easiest approach, especially with projects that require multiple stages of development. Throughout the time that I worked with my teammates on this project, we all worked together to establish effective lines of communication and talk to resolve any issues that we may have had. We held team meetings twice a week to discuss any tasks that we were working on and worked to solve any bugs that came up as well. I made myself available to my teammates whenever they needed me.
 
 ## Collaborators
 
