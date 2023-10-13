@@ -31,7 +31,7 @@ The Circle Chat is a full-stack web application created for Module 1 - Backend, 
 
 <p align="center"><i>Click the thumbnail below to be redirected to the presentation video!</i></p>
 
-[![Watch the video](https://i.imgur.com/Mz1GTCa.png)](https://www.youtube.com/watch?v=w9821OUwI6Q)
+[![Watch the video](https://i.imgur.com/Mz1GTCa.png)](https://www.youtube.com/watch?v=UeR_MsilNoY)
 
 ## :floppy_disk: Technologies
 
