@@ -201,7 +201,7 @@ In order to complete this task, I followed the software architecture that makes 
 - Using middleware to have access to sending requests and receiving responses via HTTP requests
 - Having stateless-client communication
 - Having data represented in the form of JSON
-- Using resource-based data retrieval, For example, '/posys' represents a list of posts, but "/posts/1" represents a specific item.
+- Using resource-based data retrieval, For example, '/posts' represents a list of posts, but "/posts/1" represents a specific item.
 
 ### JF 5.5
 
