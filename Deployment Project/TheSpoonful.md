@@ -12,14 +12,14 @@ The Spoonful Blog is a full-stack application created for Module 2 - Deployment,
 
 <br>
 <p align="center" >
-<img  width=600 src="Project Visuals/spoonful_app/spoonful-home page .png" alt="animated"/>
+<img  width=600 src="spoonful_visuals/spoonful-homepage.png" alt="spoonful-homepage"/>
 </p>
 
 <li> The design for this project was mainly focused on user readability and executing CI/CD properly. We wanted to make sure that our backend architecture fell in line with the vision that we had for the front end as well. My team and I held weekly meetings where we had planning sessions and delegated each task necessary to complete the project.</li>
 
 <br>
 <p align="center" >
-<img  width=600 src="Project Visuals/spoonful_app/spoonful-kanban.png" alt="animated"/>
+<img  width=600 src="Project Visuals/spoonful_app/spoonful-kanban.png" alt="spoonful-kanban"/>
 </p>
 
 ## :computer: Action
@@ -34,36 +34,36 @@ The Spoonful Blog is a full-stack application created for Module 2 - Deployment,
   <li>Creating the db file to instantiate the database</li>
   <br>
   <p align="center" >
-  <img  width=600 src="Project Visuals/spoonful_app/spoonful-db-setup.png" alt="animated"/>
+  <img  width=600 src="Project Visuals/spoonful_app/spoonful-db-setup.png" alt="spoonful-db-setup"/>
   </p>
 
   <li>Creating the <code>User</code> and <code>Post</code> models that establish the data types for the user and the posts.</li>
   <br>
  <p align="center">
-  <img  width=600 src="Project Visuals/spoonful_app/spoonful-post-model.png" alt="animated"/>
+  <img  width=600 src="Project Visuals/spoonful_app/spoonful-post-model.png" alt="spoonful-post-model"/>
   <br>
-  <img  width=600 src="Project Visuals/spoonful_app/spoonful-user-model.png" alt="animated"/>
+  <img  width=600 src="Project Visuals/spoonful_app/spoonful-user-model.png" alt="spoonful-user-model"/>
   </p>  
   <br>
 
   <li>Creating a file to handle all middleware so that <code>HTTP</code> requests could be made and form input data could be handled from the front-end</li>
   <br>
   <p align="center">
-  <img  width=600 src="Project Visuals/spoonful_app/spoonful-middleware.png" alt="animated"/>
+  <img  width=600 src="Project Visuals/spoonful_app/spoonful-middleware.png" alt="spoonful-middleware"/>
   </p>  
   <br>
 
   <li>Installed all necessary dependencies and packages needed to complete the project</li>
   <br>
   <p align="center">
-  <img  width=600 src="Project Visuals/spoonful_app/spoonful-dependencies.png" alt="animated"/>
+  <img  width=600 src="Project Visuals/spoonful_app/spoonful-dependencies.png" alt="spoonful-dependencies"/>
   </p>
   <br>
 
   <li>Setting up CI/CD files</li>
   <br>
   <p align="center">
-  <img  width=600 src="Project Visuals/spoonful_app/spoonful-ci-cd.png" alt="animated"/>
+  <img  width=600 src="Project Visuals/spoonful_app/spoonful-ci-cd.png" alt="spoonful-ci-cd"/>
   </p>  
 
 </ul>
@@ -81,22 +81,22 @@ The Spoonful Blog is a full-stack application created for Module 2 - Deployment,
 PostList</code> components</li>
 <br>
 <p align="left" >
-<img  width=600 src="Project Visuals/spoonful_app/spoonful-app-js.png" alt="animated"/>
+<img  width=600 src="Project Visuals/spoonful_app/spoonful-app-js.png" alt="spoonful-app-js"/>
 <br>
-<img  width=600 src="Project Visuals/spoonful_app/spoonful-react-form.png" alt="animated"/>
+<img  width=600 src="Project Visuals/spoonful_app/spoonful-react-form.png" alt="spoonful-react-form"/>
 <br>
-<img  width=600 src="Project Visuals/spoonful_app/spoonful-form-handlesubmit.png" alt="animated"/>
+<img  width=600 src="Project Visuals/spoonful_app/spoonful-form-handlesubmit.png" alt="spoonful-form-handlesubmit"/>
 </p>
 <br>
 <li>Set up the file that would link the backend to the front end</li>
 <br>
 <p align="left" >
-<img  width=600 src="Project Visuals/spoonful_app/spoonful-backend-link.png" alt="animated"/>
+<img  width=600 src="Project Visuals/spoonful_app/spoonful-backend-link.png" alt="spoonful-backend-link"/>
 </p>
 <br>
 <li>Set up the root file for the front end</li>
 <p align="left" >
-<img  width=600 src="Project Visuals/spoonful_app/spoonful-react-root.png" alt="
+<img  width=600 src="Project Visuals/spoonful_app/spoonful-react-root.png" alt="spoonful-react-root"
 </ul>
 </li>
 
