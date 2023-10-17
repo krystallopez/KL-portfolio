@@ -31,8 +31,8 @@ The Circle Chat is a full-stack web application created for Module 1 - Backend, 
 <li>Creating the <code>db</code> file to instantiate the database, instantiating the server</li>
 
 <br>
-<p align="center">
 <p align="center"><i><b>Instantiating a DB</b></i></p>
+<p align="center">
 <img src="circlechat_visuals/circlechat-db-init.png" alt="circle-chat-db-init"/>
 <br>
 </p>
