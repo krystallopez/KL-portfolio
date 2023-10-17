@@ -74,7 +74,7 @@ The Spoonful Blog is a full-stack application created for Module 2 - Deployment,
 
   <li>Setting up CI/CD files</li>
   <br>
-  <p align="center">
+  <p align="left">
   <img src="spoonful_visuals/spoonful-ci-cd.png" alt="spoonful-ci-cd"/>
   </p>  
 
@@ -108,13 +108,13 @@ PostList</code> components</li>
 
 <li>Set up the file that would link the backend to the front end</li>
 <br>
-<p align="center" >
+<p align="left" >
 <img src="spoonful_visuals/spoonful-backend-link.png" alt="spoonful-backend-link"/>
 </p>
 <br>
 <li>Set up the root file for the front end</li>
 <br>
-<p align="center" >
+<p align="left" >
 <img src="spoonful_visuals/spoonful-react-root.png" alt="spoonful-react-root"
 </ul>
 </li>
