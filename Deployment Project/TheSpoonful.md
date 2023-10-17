@@ -114,8 +114,9 @@ PostList</code> components</li>
 <br>
 <li>Set up the root file for the front end</li>
 <br>
-<p align="left" >
-<img src="spoonful_visuals/spoonful-react-root.png" alt="spoonful-react-root"
+<p align="left">
+<img src="spoonful_visuals/spoonful-react-root.png" alt="spoonful-react-root"/>
+</p>
 </ul>
 </li>
 
