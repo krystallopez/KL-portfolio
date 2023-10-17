@@ -32,36 +32,58 @@ The Circle Chat is a full-stack web application created for Module 1 - Backend, 
 
 <br>
 <p align="center">
+<p align="center"><i><b>Instantiating a DB</b></i></p>
 <img src="circlechat_visuals/circlechat-db-init.png" alt="circle-chat-db-init"/>
 <br>
+</p>
+<br>
+<p align="center"><i><b>Instantiating a server</b></i></p>
+<p align="center">
 <img src="circlechat_visuals/circlechat-server.png"/>
 </p>
 
 <li>Creating the <code>User</code> and <code>Messages</code> models that establish th data types for the user and the posts, and establishing the associations between models</li>
 <br>
+<p align="center"><i><b>User Model</b></i></p>
 <p align="center">
 <img src="circlechat_visuals/circlechat-usermodel.png" alt="user-model"/>
 <br>
+
+<p align="center"><i><b>Message Model</b></i></p>
+<p align="center">
 <img src="circlechat_visuals/circlechat-message-model.png" alt="messages-model"/>
+</p>
+
 <br>
+<p align="center"><i><b>Model Associations</b></i></p>
+<p align="center">
 <img src="circlechat_visuals/circlechat-assocations.png" alt="associations" />
 </p>
 
 <li>Creating a file to handle all middleware so that <code>HTTP</code> requests could be made and input data from the messages could be handled from the front-end</li>
 <br>
 
+<p align="center"><i><b>Middleware</i></b></p>
 <p align="center">
 <img src="circlechat_visuals/circlechat-middleware.png" alt="middleware" />
 </p>
 
 <li>Creating routes for the <code>User</code> and <code>Messages</code>, setting up the initial login/hashing routes</li>
 <br>
-
+<p align="center"><i><b>User Routes</b></i></p>
 <p align="center">
 <img src="circlechat_visuals/circlechat-user-routes.png" alt="user-routes"/>
+</p>
 <br>
+
+<p align="center"><i><b>Message Routes</b></i></p>
+<p align="center">
 <img src="circlechat_visuals/circlechat-message-routes.png" alt="message-routes"/>
+</p>
 <br>
+
+<p align="center"><i><b>Login/Hashing Routes</b></i></p>
+<p align="center">
 <img src="circlechat_visuals/circlechat-login-hashing.png" alt="login-hashing-routes"/>
 </p>
 
