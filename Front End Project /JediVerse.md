@@ -16,7 +16,7 @@ The JediVerse is a frontend web application that I created during the Multiverse
 
 <br>
 <p align="center" >
-<img  width=600 src="Project Visuals/jediverse_app/jediverse-wireframe.png" alt="animated"/>
+<img  width=600 src="jediverse_visuals/jediverse-wireframe.png" alt="wireframe"/>
 </p>
 
 
@@ -25,7 +25,7 @@ The JediVerse is a frontend web application that I created during the Multiverse
 <li> I built the JediVerse by using React and linking the Star Wars API better known as SWAPI to my React application. I followed the documentation listed on the API website and followed the examples on to reach each endpoint. Once I linked the API to my React project, I was then able to build the components needed to bring the application to life.</li>
 <br>
 <p align="center" >
-<img  width=600 src="Project Visuals/jediverse_app/swapi-data.png" alt="animated"/>
+<img  width=600 src="jediverse_visuals/swapi-data.png" alt="swapi-data"/>
 </p>
 <p align="center"><i>This is how the data looks when grabbed from the API directly, further down you will be able to see how I pulled specific key-values for each component.</i></p>
 <br>
@@ -33,11 +33,11 @@ The JediVerse is a frontend web application that I created during the Multiverse
 <li>Using a navbar component, I created a navbar using the Menu and Container components from Semantic React to set the navbar in a container and to give each endpoint link a name in the navbar as well. I used the Link component from the react-router dom to add the endpoints for each component. On the UI, when the user clicks on each tab it will take them to the linked endpoint. </li>
 <br>
 <p align="center" >
-<img  width=600 src="Project Visuals/jediverse_app/jv-navbar-ui.png" alt="animated"/>
+<img  width=600 src="jediverse_visuals/jv-navbar-ui.png" alt="jv-navbar-ui"/>
 </p>
 <br>
 <p align="center" >
-<img  width=600 src="Project Visuals/jediverse_app/jv-navbar-code.png" alt="animated"/>
+<img  width=600 src="jediverse_visuals/jv-navbar-code.png" alt="jv-navbar code"/>
 </p>
 
 <br>
@@ -45,13 +45,13 @@ The JediVerse is a frontend web application that I created during the Multiverse
 <li>In the <code>App.js</code> file, I established all of the state variables needed to fetch data from each of the endpoints. I created fetch calls for each endpoint. Each component is linked to the endpoint of the same name, so for example, the people endpoint is linked to the <code>People</code> component. The data from each endpoint is then passed as a prop to each component, under the name of <code>data</code>. Each instance of <code>data</code> holds the value of the different state variables that  were created for each component.</li>
 <br>
 <p align="center" >
-<img  width=600 src="Project Visuals/jediverse_app/jv-fetch-planets.png" alt="animated"/>
+<img  width=600 src="jediverse_visuals/jv-fetch-planets.png" alt="jv-fetch-planets"/>
 </p>
 <br>
 <p align="center"><i>In the function <code>fetchPlanets</code>, the variable <code>data</code> is set to be the response received when making the call to the API. Once the response is received, the state <code>setPlanets</code> changes to the value of <code>data.results</code>. The state is then updated and the results are fetched and rendered on the page.</i></p>
 
 <p align="center" >
-<img  width=600 src="Project Visuals/jediverse_app/jv-planets-rendered.png" alt="animated"/>
+<img  width=600 src="jediverse_visuals/jv-planets-rendered.png" alt="jv-planets-rendered"/>
 </p>
 <p align="center"><i>Once the state has been updated and the results have been fetched, the data is rendered on the page, as shown in the photo above.</i></p>
 
