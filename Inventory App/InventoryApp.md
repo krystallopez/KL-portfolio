@@ -12,17 +12,15 @@ The Inventory App is a full-stack web application created for Bootcamp Part 2, W
 
 <br>
 <p align="center" >
-<img  width=600 src="Project Visuals/inventory_app/fun1.png" alt="animated"/>
+<img src="inventory_visuals/fun1.png" alt="fun1"/>
 </p>
-
-
 
 - The design for this project was mainly focused on user readability and the backend codebase. We wanted to make sure that all of the information that was needed was being fetched properly from the backend. My team and I held sessions in which we delegated each task necessary to complete the project.
 
 <br>
 
 <p align="center" >
-<img  width=600 src="Project Visuals/inventory_app/funkanban.png" alt="animated"/>
+<img src="inventory_visuals/funkanban.png" alt="fun-kanban"/>
 </p>
 
 ## :computer: Action 
@@ -41,14 +39,14 @@ The Inventory App is a full-stack web application created for Bootcamp Part 2, W
 
 <br>
 <p align="center" >
-<img  width=600 src="Project Visuals/inventory_app/inventory-test.png" alt="animated"/>
+<img src="inventory_visuals/inventory-test.png" alt="inventory-test"/>
 </p>
 
 <p align="center"><i>This is a small snippet of the test that was written for this project.</i></p>
 <br>
 
 <p align="center" >
-<img  width=600 src="Project Visuals/inventory_app/fun-code1.png" alt="animated"/>
+<img src="inventory_visuals/fun-code1.png" alt="fun-code-1"/>
 </p>
    
 <p align="center"><i>Here is a snippet of the Items routes that I assisted with for this application.</i></p>
@@ -145,7 +143,7 @@ For this project, I was able to create a test for each endpoint to ensure that a
 
 
 <p align="center" >
-<img  width=600 src="Project Visuals/inventory_app/inventory-test-3.png" alt="animated"/>
+<img   src="Project Visuals/inventory_app/inventory-test-3.png" alt="animated"/>
 </p>
 
 <p align="center"><i>As you can see, each endpoint, GET, POST, PUT, and DELETE are being tested to ensure that all of the requested information is received properly </i></p>
