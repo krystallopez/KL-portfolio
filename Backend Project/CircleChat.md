@@ -90,7 +90,7 @@ The Circle Chat is a full-stack web application created for Module 1 - Backend, 
 
 ## :movie_camera: Result (Video Presenation + Project Repo)
 
-- [The Circle Chat Repo](hhttps://github.com/thecirclechat/circle-chat-backend)
+- [The Circle Chat Repo](https://github.com/thecirclechat/circle-chat-backend)
 - [Circle Chat README](https://github.com/thecirclechat/circle-chat-backend/blob/main/README.md)
 - [Circle Chat Kanban Board](https://github.com/orgs/thecirclechat/projects/1)
 
