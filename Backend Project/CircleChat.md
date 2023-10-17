@@ -12,15 +12,58 @@ The Circle Chat is a full-stack web application created for Module 1 - Backend, 
 
 <li>There were multiple integral parts to this projects, especially the backend architecture as well as the architecture of chat functionality. In this project, my task was to build out the backend server, database, models, routes, and middleware. All of these files were house in the <code>server</code> folder. The frontend was an addition to the project housed in the <code>client</code> folder.</li>
 
-<p>
+<br>
+
+<li>The main focus of this project was centered about the functionality of the live chat. As a group, my teammates and I wanted to make sure that the backend was configured properly so that it fell in line with how we wanted the UI to look as well. My team and I established weekly planning sessions so that we could complete the project. We created a wireframe so that we could have a clear layout as to how we wanted to structure our application.</li>
+
+<br>
+<p align="center">
+<img src="circlechat_visuals/Circle Chat Wireframe.png" alt="circle-chat-wireframe"/>
 </p>
-
-
-<li>The main focus of this project was centered about the functionality of the live chat. As a group, my teammates and I wanted to make sure that the backend was configured properly so that it fell in line with how we wanted the UI to look as well. My team and I established weekly planning sessions so that we could complete the project.</li>
 
 
 ## :computer: Action
 
+<li>My main contribution to this application revolved around backend development.</li>
+
+<br>
+
+<li>Creating the <code>db</code> file to instantiate the database, instantiating the server</li>
+
+<br>
+<p align="center">
+<img src="circlechat_visuals/circlechat-db-init.png" alt="circle-chat-db-init"/>
+<br>
+<img src="circlechat_visuals/circlechat-server.png"/>
+</p>
+
+<li>Creating the <code>User</code> and <code>Messages</code> models that establish th data types for the user and the posts, and establishing the associations between models</li>
+<br>
+<p align="center">
+<img src="circlechat_visuals/circlechat-usermodel.png" alt="user-model"/>
+<br>
+<img src="circlechat_visuals/circlechat-message-model.png" alt="messages-model"/>
+<br>
+<img src="circlechat_visuals/circlechat-assocations.png" alt="associations" />
+</p>
+
+<li>Creating a file to handle all middleware so that <code>HTTP</code> requests could be made and input data from the messages could be handled from the front-end</li>
+<br>
+
+<p align="center">
+<img src="circlechat_visuals/circlechat-middleware.png" alt="middleware" />
+</p>
+
+<li>Creating routes for the <code>User</code> and <code>Messages</code>, setting up the initial login/hashing routes</li>
+<br>
+
+<p align="center">
+<img src="circlechat_visuals/circlechat-user-routes.png" alt="user-routes"/>
+<br>
+<img src="circlechat_visuals/circlechat-message-routes.png" alt="message-routes"/>
+<br>
+<img src="circlechat_visuals/circlechat-login-hashing.png" alt="login-hashing-routes"/>
+</p>
 
 
 ## :movie_camera: Result (Video Presenation + Project Repo)

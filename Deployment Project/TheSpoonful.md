@@ -152,7 +152,7 @@ Other dependencies
 
 #### Can work effectively and contribute appropriately on a team to produce software
 
- Not only did I work independently on the parts that I added to this project but I also effectively collaborated with my team. In order to complete this action, I helped to facilitate weekly meetings not only to discuss project topics but also to discuss how to begin the SDLC for our project. I would work with my team to assign individual tasks to each member of the group, make sure that they were comfortable with the task, and also offer help should the need arise. I also created a group WebEx space so that we could all effectively communicate with each other.
+Not only did I work independently on the parts that I added to this project but I also effectively collaborated with my team. In order to complete this action, I helped to facilitate weekly meetings not only to discuss project topics but also to discuss how to begin the SDLC for our project. I would work with my team to assign individual tasks to each member of the group, make sure that they were comfortable with the task, and also offer help should the need arise. I also created a group WebEx space so that we could all effectively communicate with each other.
 
 ### JF 1.6
 
