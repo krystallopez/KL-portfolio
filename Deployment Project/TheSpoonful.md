@@ -11,15 +11,17 @@ The Spoonful Blog is a full-stack application created for Module 2 - Deployment,
 <li>There are multiple core parts to this project, specifically the backend architecture and deployment architecture. The backend architecture is housed in the <code>server</code> folder and the CI/CD for deployment is housed in the <code>.github/workflows</code> folder. The front end, a wonderful addition to the project is housed in the <code> public </code> folder. </li>
 
 <br>
+<p align="center"><i><b>Homepage</b></i></p>
 <p align="center" >
-<img  width=600 src="spoonful_visuals/spoonful-homepage.png" alt="spoonful-homepage"/>
+<img src="spoonful_visuals/spoonful-homepage.png" alt="spoonful-homepage"/>
 </p>
 
 <li> The design for this project was mainly focused on user readability and executing CI/CD properly. We wanted to make sure that our backend architecture fell in line with the vision that we had for the front end as well. My team and I held weekly meetings where we had planning sessions and delegated each task necessary to complete the project.</li>
 
 <br>
-<p align="center" >
-<img  width=600 src="Project Visuals/spoonful_app/spoonful-kanban.png" alt="spoonful-kanban"/>
+<p align="center"><i><b>Kanban Board</b></i></p>
+<p align="center">
+<img src="spoonful_visuals/spoonful-kanban.png" alt="spoonful-kanban"/>
 </p>
 
 ## :computer: Action
@@ -33,37 +35,47 @@ The Spoonful Blog is a full-stack application created for Module 2 - Deployment,
 
   <li>Creating the db file to instantiate the database</li>
   <br>
+  <p align="center"><i><b>DB setup</b></i></p>
   <p align="center" >
-  <img  width=600 src="Project Visuals/spoonful_app/spoonful-db-setup.png" alt="spoonful-db-setup"/>
+  <img src="spoonful_visuals/spoonful-db-setup.png" alt="spoonful-db-setup"/>
   </p>
 
   <li>Creating the <code>User</code> and <code>Post</code> models that establish the data types for the user and the posts.</li>
   <br>
- <p align="center">
-  <img  width=600 src="Project Visuals/spoonful_app/spoonful-post-model.png" alt="spoonful-post-model"/>
+  
+  <p align="center"><i><b>Post Model</b></i></p>
+  <p align="center">
+  <img src="spoonful_visuals/spoonful-post-model.png" alt="spoonful-post-model"/>
+  </p>
   <br>
-  <img  width=600 src="Project Visuals/spoonful_app/spoonful-user-model.png" alt="spoonful-user-model"/>
+
+  <p align="center"><i><b>User Model</b></i></p>
+  <p align="center">
+  <img src="spoonful_visuals/spoonful-user-model.png" alt="spoonful-user-model"/>
   </p>  
   <br>
 
   <li>Creating a file to handle all middleware so that <code>HTTP</code> requests could be made and form input data could be handled from the front-end</li>
   <br>
+
   <p align="center">
-  <img  width=600 src="Project Visuals/spoonful_app/spoonful-middleware.png" alt="spoonful-middleware"/>
+  <img src="spoonful_visuals/spoonful-middleware.png" alt="spoonful-middleware"/>
   </p>  
   <br>
 
   <li>Installed all necessary dependencies and packages needed to complete the project</li>
   <br>
+
+  <p align="center"><i><b>Dependencies</b></i></p>
   <p align="center">
-  <img  width=600 src="Project Visuals/spoonful_app/spoonful-dependencies.png" alt="spoonful-dependencies"/>
+  <img src="spoonful_visuals/spoonful-dependencies.png" alt="spoonful-dependencies"/>
   </p>
   <br>
 
   <li>Setting up CI/CD files</li>
   <br>
   <p align="center">
-  <img  width=600 src="Project Visuals/spoonful_app/spoonful-ci-cd.png" alt="spoonful-ci-cd"/>
+  <img src="spoonful_visuals/spoonful-ci-cd.png" alt="spoonful-ci-cd"/>
   </p>  
 
 </ul>
@@ -80,23 +92,30 @@ The Spoonful Blog is a full-stack application created for Module 2 - Deployment,
 <li> Established logic and state for the <code> App, Form, Post, </code> and <code>
 PostList</code> components</li>
 <br>
-<p align="left" >
-<img  width=600 src="Project Visuals/spoonful_app/spoonful-app-js.png" alt="spoonful-app-js"/>
-<br>
-<img  width=600 src="Project Visuals/spoonful_app/spoonful-react-form.png" alt="spoonful-react-form"/>
-<br>
-<img  width=600 src="Project Visuals/spoonful_app/spoonful-form-handlesubmit.png" alt="spoonful-form-handlesubmit"/>
+<p align="center"><i><b><code>App.js</code></b></i></p>
+<p align="center" >
+<img src="spoonful_visuals/spoonful-app-js.png" alt="spoonful-app-js"/>
 </p>
 <br>
+
+<p align="center"><i><b>React Form</b></i></p>
+<p align="center">
+<img src="spoonful_visuals/spoonful-react-form.png" alt="spoonful-react-form"/>
+<br>
+<img src="spoonful_visuals/spoonful-form-handlesubmit.png" alt="spoonful-form-handlesubmit"/>
+</p>
+<br>
+
 <li>Set up the file that would link the backend to the front end</li>
 <br>
-<p align="left" >
-<img  width=600 src="Project Visuals/spoonful_app/spoonful-backend-link.png" alt="spoonful-backend-link"/>
+<p align="center" >
+<img src="spoonful_visuals/spoonful-backend-link.png" alt="spoonful-backend-link"/>
 </p>
 <br>
 <li>Set up the root file for the front end</li>
-<p align="left" >
-<img  width=600 src="Project Visuals/spoonful_app/spoonful-react-root.png" alt="spoonful-react-root"
+<br>
+<p align="center" >
+<img src="spoonful_visuals/spoonful-react-root.png" alt="spoonful-react-root"
 </ul>
 </li>
 
