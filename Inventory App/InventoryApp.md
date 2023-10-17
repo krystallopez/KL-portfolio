@@ -143,7 +143,7 @@ For this project, I was able to create a test for each endpoint to ensure that a
 
 
 <p align="center" >
-<img   src="Project Visuals/inventory_app/inventory-test-3.png" alt="animated"/>
+<img   src="inventory_visuals/inventory-test-3.png" alt="inventory-test-3"/>
 </p>
 
 <p align="center"><i>As you can see, each endpoint, GET, POST, PUT, and DELETE are being tested to ensure that all of the requested information is received properly </i></p>
