@@ -1,4 +1,4 @@
-# Project 3 - The Spoonful Blog
+# Project 2 - The Spoonful Blog
 
  An enhanced breakdown of the project purpose:
 

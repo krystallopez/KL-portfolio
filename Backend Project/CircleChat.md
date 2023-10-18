@@ -1,4 +1,4 @@
-# Project 5 - The Circle Chat 
+# Project 1 - The Circle Chat 
 
 An enhanced breakdown of the project purpose: 
 
