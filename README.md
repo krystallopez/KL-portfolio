@@ -30,8 +30,11 @@ I enjoy seeing my hard work come to fruition and seeing the impact that it has w
 
 ## Contacts 
 
-- <b>Email</b>: lopezkrystal10@gmail.com
-- <b>LinkedIn</b>: [Krystal Lopez LinkedIn](https://www.linkedin.com/in/krystallopez30/)
+<b>Email</b>: lopezkrystal10@gmail.com
+<br>
+<b>LinkedIn</b>: [Krystal Lopez LinkedIn](https://www.linkedin.com/in/krystallopez30/)
+<br>
+
 
 
 
