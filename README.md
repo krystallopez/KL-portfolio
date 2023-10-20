@@ -56,3 +56,12 @@ During my on-the-job training, I had the opportunity to work and collaborate wit
 > <p><b>I worked with Krystal on a major project that we were assigned earlier this year and she played a vital role in the success of the release earlier this year. Her contributions to this project were great. She took care of all front-end development and she promptly picked up the requirements and understood the backend implementation that was done by myseld and completed the work on React for various workflows of the various stages of the project. She has a very good communication skills and is very appreciated by customers and our team. She is a fast-learner and good team player.</b></p>
 <p><b><i>Sivasubramanian Namasivayam, Cloud Engineer at Cisco Systems, Inc.</b></i></p>
 <p align="right"><a href="#readme-top">Back to top</a></p>
+
+
+## Acknowledgments
+
+I would like to thank Multiverse, specifically, my coaches, David Todd, Kat Law, and Laurie Corrin for their continued support throughout my apprenticeship. They have helped me develop into the engineer that I am today and have provided me with skills that I will carry for a life time. I hope that you all continue to provide your expertise to other aspiring engineers and help me start their coding journey! 
+
+I would also like to extend my thanks to Cisco Systems Inc, and the RISE Apprenticeship for employing me and giving me the opportunity of a lifetime. Cisco believed in me and provided me with the tools that I needed to succeed. Everyday I can see how much I have improved as a SWE and I reflect on how far I have come and it is truly a dream come true. 
+
+Lastly, I would like to give a special thanks again to Multiverse, for their support throughout this process,but also to Actualize Coding Bootcamp as well, I had taken on a bootcamp prior to being hired at Cisco. I graduate two weeks before I got hired and Actualize coached me through every step of the way. I would also like to thank my team, they have been amazing since I joined on and have truly helped me grow and encourage me to grow everyday, they are the most supportive and just amazing team that I have had the pleasure to be apart of. 
