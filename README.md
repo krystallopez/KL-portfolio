@@ -19,7 +19,8 @@ During my time at Cisco Systems, I delivered value not only through improvements
 - [Front End Project](https://github.com/krystallopez/kl-portfolio/tree/main/Front%20End%20Project%20)
 - [Hackathon](https://github.com/krystallopez/kl-portfolio/tree/main/Hackathon)
 - [Testimonials](https://github.com/krystallopez/kl-portfolio#testimonials)
-<p align="right"><a href="#readme-top">Back to top</a></p>
+
+
 ## Introduction
 
 Hello there! :wave:, my name is Krystal Lopez! I am a Full Stack Software Engineer Apprentice at Cisco Systems, Inc. Coding has not always been something that I was interested in, but after working in customer service for over 10 years, in 2020 I decided that I needed a serious change of scenery. I started my first bootcamp, Actualize back in May 2021, and it has been quite the journey ever since! I have grown as an engineer ten fold since I started my coding journey. I love coding because everyday there is something new to learn, a new framework to master, new syntax to learn, a new way of writing an algoritm. Plus, coding is all around us! In our TV screens or our video game controllers, in the streetlights that help control traffic, everywhere!. I love coding because it influences the word around us and helps to make the world a better place. 
@@ -31,7 +32,7 @@ I enjoy seeing my hard work come to fruition and seeing the impact that it has w
 
 - <b>Email</b>: lopezkrystal10@gmail.com
 - <b>LinkedIn</b>: [Krystal Lopez LinkedIn](https://www.linkedin.com/in/krystallopez30/)
-<p align="right"><a href="#readme-top">Back to top</a></p>
+
 
 
 ## Testimonials
@@ -55,7 +56,7 @@ During my on-the-job training, I had the opportunity to work and collaborate wit
 
 > <p><b>I worked with Krystal on a major project that we were assigned earlier this year and she played a vital role in the success of the release earlier this year. Her contributions to this project were great. She took care of all front-end development and she promptly picked up the requirements and understood the backend implementation that was done by myseld and completed the work on React for various workflows of the various stages of the project. She has a very good communication skills and is very appreciated by customers and our team. She is a fast-learner and good team player.</b></p>
 <p><b><i>Sivasubramanian Namasivayam, Cloud Engineer at Cisco Systems, Inc.</b></i></p>
-<p align="right"><a href="#readme-top">Back to top</a></p>
+
 
 
 ## Acknowledgments
