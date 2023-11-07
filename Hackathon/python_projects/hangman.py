@@ -34,6 +34,7 @@ while not game_end:
         if user_lives == 0:
             game_end = True
             print("You lose.")
+            print(f"The word was {chosen_word}")
 
     print(f"{' '.join(display_blanks)}")
 
