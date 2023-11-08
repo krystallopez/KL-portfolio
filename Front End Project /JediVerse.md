@@ -30,7 +30,7 @@ The JediVerse is a frontend web application that I created during the Multiverse
 <p align="center"><i>This is how the data looks when grabbed from the API directly, further down you will be able to see how I pulled specific key-values for each component.</i></p>
 <br>
 
-<li>Using a navbar component, I created a navbar using the Menu and Container components from Semantic React to set the navbar in a container and to give each endpoint link a name in the navbar as well. I used the Link component from the react-router dom to add the endpoints for each component. On the UI, when the user clicks on each tab it will take them to the linked endpoint. </li>
+<li>Using a navbar component, I created a navbar using the Menu and Container components from Semantic React to set the navbar in a container and to give each endpoint link a name in the navbar as well. I used the Link component from the <code>react-router-dom</code> to add the endpoints for each component. On the UI, when the user clicks on each tab it will take them to the linked endpoint. </li>
 <br>
 <p align="center" >
 <img src="jediverse_visuals/jv-navbar-ui.png" alt="jv-navbar-ui"/>
@@ -79,7 +79,7 @@ The JediVerse is a frontend web application that I created during the Multiverse
 <p align="center" >
 <img src="jediverse_visuals/jv-pagination.png" alt="jv-pagination"/>
 </p>
-<p align="center"><i>This is pagination. You can see that as you hit "Next" the page number increases by 1 taking you to the next page of data, then when you hit "Previous" the page number is reduced by 1, thus taking you to the previous page. In the useEffect function, the <code>page</code> prop is passed so that the page can be fetched and rerendered.</i></p>
+<p align="center"><i>This is pagination. You can see that as you hit "Next" the page number increases by 1 taking you to the next page of data, then when you hit "Previous" the page number is reduced by 1, thus taking you to the previous page. In the <code>useEffect</code> function, the <code>page</code> prop is passed so that the page can be fetched and rerendered.</i></p>
 <br>
 
 <li> I followed the same data structure for each of the components, pulling only specific key values that I wanted to be visible to the user. I used the map function to map through each object so that they could easily be displayed in an array.</li>
