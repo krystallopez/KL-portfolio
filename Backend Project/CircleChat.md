@@ -5,16 +5,16 @@ An enhanced breakdown of the project purpose:
 
 ## :memo: Situation 
 
-The Circle Chat is a full-stack web application created for Module 1 - Backend, week 5 of the Multiverse Curriculum. The main concept of the Circle Chat is to demonstrate a full-stack web application in which the user can chat with their friends in real time. This project also demonstrates proficiency in the use of backend technologies like Express, and frontend technologies like React and Vite. 
+The Circle Chat is a full-stack web application created for Module 1 - Backend, week 5 of the Multiverse Curriculum. The main concept of Circle Chat is to demonstrate a full-stack web application in which the user can chat with their friends in real-time. This project also demonstrates proficiency in the use of backend technologies like Express, and frontend technologies like React and Vite. 
 
 
 ## :pushpin: Task
 
-<li>There were multiple integral parts to this projects, especially the backend architecture as well as the architecture of chat functionality. In this project, my task was to build out the backend server, database, models, routes, and middleware. All of these files were house in the <code>server</code> folder. The frontend was an addition to the project housed in the <code>client</code> folder.</li>
+<li>There were multiple integral parts to this project, especially the backend architecture as well as the architecture of the chat functionality. In this project, my task was to build out the backend server, database, models, routes, and middleware. All of these files were housed in the <code>server</code> folder. The front end was an addition to the project housed in the <code>client</code> folder.</li>
 
 <br>
 
-<li>The main focus of this project was centered about the functionality of the live chat. As a group, my teammates and I wanted to make sure that the backend was configured properly so that it fell in line with how we wanted the UI to look as well. My team and I established weekly planning sessions so that we could complete the project. We created a wireframe so that we could have a clear layout as to how we wanted to structure our application.</li>
+<li>The main focus of this project was centered around the functionality of the live chat. As a group, my teammates and I wanted to make sure that the backend was configured properly so that it fell in line with how we wanted the UI to look as well. My team and I established weekly planning sessions so that we could complete the project. We created a wireframe so that we could have a clear layout as to how we wanted to structure our application.</li>
 
 <br>
 <p align="center">
@@ -42,7 +42,7 @@ The Circle Chat is a full-stack web application created for Module 1 - Backend, 
 <img src="circlechat_visuals/circlechat-server.png"/>
 </p>
 
-<li>Creating the <code>User</code> and <code>Messages</code> models that establish th data types for the user and the posts, and establishing the associations between models</li>
+<li>Creating the <code>User</code> and <code>Messages</code> models that establish the data types for the user and the messages, and establishing the associations between models</li>
 <br>
 <p align="center"><i><b>User Model</b></i></p>
 <p align="center">
@@ -152,7 +152,7 @@ While implementing the code for the backend, i.e. defining the models, I thought
 
 #### Can create simple software designs to effectively communicate understanding of the program
 
-I collaborated and took the lead on multiple tasks throughout this project, including the way in which our code was structured. I first started by building out the model for our backend so that we could accurately list all of the data that we needed. I then set up the middleware as well as the initial login routes, that included hashing. I participated in various sessions that led to delegation of specific tasks that need to be completed. 
+I collaborated and took the lead on multiple tasks throughout this project, including the way in which our code was structured. I first started by building out the model for our backend so that we could accurately list all of the data that we needed. I then set up the middleware as well as the initial login routes, which included hashing. I participated in various sessions that led to the delegation of specific tasks that needed to be completed. 
 
 ### JF 2.6
 
