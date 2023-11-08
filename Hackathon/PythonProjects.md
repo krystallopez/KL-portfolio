@@ -4,7 +4,7 @@ A high-level overview of the project purpose:
 
 ## :memo: Situation
 
-For this project,as part of a Hackathon, we were tasked with learning a new programming language and creating a project built using that language. For my programming language, I chose Python, as that is the language that my team uses. 
+For this project, as part of a Hackathon, we were tasked with learning a new programming language and creating a project built using that language. For my programming language, I chose Python, as that is the language that my team uses. 
 
 ## :pushpin: Task 
 
